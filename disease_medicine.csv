@@ -1,0 +1,1145 @@
+Disease, medicine_1, medicine_2, medicine_3, medicine_4, medicine_5, medicine_6
+Fungal infection, Fluconazole, Clotrimazole, Itraconazole, Terbinafine, Nystatin, Ketoconazole
+Fungal infection, Clotrimazole, Fluconazole, Nystatin, Itraconazole, Terbinafine, Ketoconazole
+Fungal infection, Itraconazole, Terbinafine, Fluconazole, Ketoconazole, Clotrimazole, Nystatin
+Fungal infection, Terbinafine, Ketoconazole, Clotrimazole, Fluconazole, Itraconazole, Nystatin
+Fungal infection, Nystatin, Itraconazole, Ketoconazole, Terbinafine, Clotrimazole, Fluconazole
+Fungal infection, Ketoconazole, Fluconazole, Terbinafine, Clotrimazole, Nystatin, Itraconazole
+Fungal infection, Fluconazole, Itraconazole, Nystatin, Clotrimazole, Ketoconazole, Terbinafine
+Fungal infection, Clotrimazole, Terbinafine, Nystatin, Itraconazole, Fluconazole, Ketoconazole
+Fungal infection, Itraconazole, Nystatin, Ketoconazole, Fluconazole, Clotrimazole, Terbinafine
+Fungal infection, Terbinafine, Clotrimazole, Itraconazole, Nystatin, Fluconazole, Ketoconazole
+Fungal infection, Nystatin, Fluconazole, Ketoconazole, Terbinafine, Itraconazole, Clotrimazole
+Fungal infection, Ketoconazole, Clotrimazole, Nystatin, Itraconazole, Fluconazole, Terbinafine
+Fungal infection, Fluconazole, Terbinafine, Clotrimazole, Nystatin, Ketoconazole, Itraconazole
+Fungal infection, Clotrimazole, Ketoconazole, Fluconazole, Nystatin, Itraconazole, Terbinafine
+Fungal infection, Itraconazole, Fluconazole, Nystatin, Ketoconazole, Terbinafine, Clotrimazole
+Fungal infection, Terbinafine, Nystatin, Clotrimazole, Fluconazole, Itraconazole, Ketoconazole
+Fungal infection, Nystatin, Ketoconazole, Terbinafine, Clotrimazole, Itraconazole, Fluconazole
+Fungal infection, Ketoconazole, Itraconazole, Fluconazole, Clotrimazole, Nystatin, Terbinafine
+Fungal infection, Fluconazole, Nystatin, Terbinafine, Itraconazole, Clotrimazole, Ketoconazole
+Fungal infection, Clotrimazole, Itraconazole, Ketoconazole, Fluconazole, Nystatin, Terbinafine
+Fungal infection, Itraconazole, Terbinafine, Nystatin, Clotrimazole, Ketoconazole, Fluconazole
+Allergy, antihistamine, decongestant, corticosteroid, leukotriene_receptor_antagonist, nasal_spray, eye_drop
+Allergy, decongestant, nasal_spray, antihistamine, eye_drop, leukotriene_receptor_antagonist, corticosteroid
+Allergy, leukotriene_receptor_antagonist, eye_drop, decongestant, antihistamine, corticosteroid, nasal_spray
+Allergy, cetirizine, loratadine, fexofenadine, desloratadine, prednisone, montelukast
+Allergy, fexofenadine, cetirizine, montelukast, desloratadine, loratadine, prednisone
+Allergy, montelukast, desloratadine, loratadine, fexofenadine, cetirizine, prednisone
+Allergy, diphenhydramine, azelastine, fluticasone, levocetirizine, albuterol, epinephrine
+Allergy, azelastine, levocetirizine, albuterol, diphenhydramine, fluticasone, epinephrine
+Allergy, albuterol, epinephrine, azelastine, diphenhydramine, levocetirizine, fluticasone
+Allergy, claritin, benadryl, zyrtec, flonase, singulair, astelin
+Allergy, flonase, zyrtec, benadryl, singulair, claritin, astelin
+Allergy, astelin, claritin, zyrtec, flonase, benadryl, singulair
+Allergy, corticosteroid, montelukast, fexofenadine, nasal_spray, cetirizine, loratadine
+Allergy, loratadine, nasal_spray, fexofenadine, montelukast, cetirizine, corticosteroid
+Allergy, cetirizine, corticosteroid, loratadine, nasal_spray, fexofenadine, montelukast
+Allergy, diphenhydramine, loratadine, azelastine, epinephrine, cetirizine, prednisone
+Allergy, loratadine, diphenhydramine, azelastine, prednisone, cetirizine, epinephrine
+Allergy, azelastine, diphenhydramine, loratadine, prednisone, epinephrine, cetirizine
+Allergy, montelukast, levofloxacin, clindamycin, albuterol, azelastine, diphenhydramine
+Allergy, clindamycin, montelukast, levofloxacin, diphenhydramine, albuterol, azelastine
+Allergy, albuterol, diphenhydramine, levofloxacin, azelastine, clindamycin, montelukast
+Allergy, loratadine, cetirizine, levofloxacin, albuterol, diphenhydramine, azelastine
+Allergy, azelastine, cetirizine, albuterol, levofloxacin, diphenhydramine, loratadine
+Allergy, levofloxacin, azelastine, cetirizine, albuterol, diphenhydramine, loratadine
+Allergy, fluticasone, azelastine, montelukast, desloratadine, epinephrine, loratadine
+Allergy, epinephrine, azelastine, montelukast, fluticasone, desloratadine, loratadine
+Allergy, desloratadine, fluticasone, montelukast, epinephrine, azelastine, loratadine
+Allergy, prednisone, singulair, cetirizine, flonase, albuterol, diphenhydramine
+Allergy, diphenhydramine, flonase, cetirizine, singulair, albuterol, prednisone
+Allergy, singulair, diphenhydramine, cetirizine, albuterol, flonase, prednisone
+Allergy, epinephrine, levocetirizine, fluticasone, montelukast, azelastine, loratadine
+Allergy, montelukast, levocetirizine, fluticasone, azelastine, loratadine, epinephrine
+Allergy, loratadine, azelastine, fluticasone, montelukast, epinephrine, levocetirizine
+GERD, Omeprazole, Ranitidine, Pantoprazole, Lansoprazole, Esomeprazole, Famotidine
+GERD, Esomeprazole, Lansoprazole, Omeprazole, Ranitidine, Pantoprazole, Famotidine
+GERD, Famotidine, Ranitidine, Esomeprazole, Omeprazole, Lansoprazole, Pantoprazole
+GERD, Pantoprazole, Omeprazole, Famotidine, Ranitidine, Lansoprazole, Esomeprazole
+GERD, Lansoprazole, Famotidine, Ranitidine, Pantoprazole, Esomeprazole, Omeprazole
+GERD, Omeprazole, Pantoprazole, Lansoprazole, Famotidine, Esomeprazole, Ranitidine
+GERD, Ranitidine, Omeprazole, Famotidine, Pantoprazole, Lansoprazole, Esomeprazole
+GERD, Esomeprazole, Famotidine, Lansoprazole, Omeprazole, Ranitidine, Pantoprazole
+GERD, Pantoprazole, Lansoprazole, Ranitidine, Esomeprazole, Famotidine, Omeprazole
+GERD, Lansoprazole, Pantoprazole, Esomeprazole, Famotidine, Ranitidine, Omeprazole
+GERD, Famotidine, Esomeprazole, Lansoprazole, Pantoprazole, Ranitidine, Omeprazole
+GERD, Ranitidine, Pantoprazole, Famotidine, Esomeprazole, Omeprazole, Lansoprazole
+Chronic cholestasis, ursodeoxycholic acid, cholestyramine, rifampicin, fenofibrate, vitamin_k, corticosteroids
+Chronic cholestasis, cholestyramine, ursodeoxycholic acid, vitamin_k, rifampicin, fenofibrate, corticosteroids
+Chronic cholestasis, rifampicin, cholestyramine, ursodeoxycholic acid, vitamin_k, fenofibrate, corticosteroids
+Chronic cholestasis, ursodiol, cholestyramine, rifampicin, vitamin_k, fenofibrate, corticosteroids
+Chronic cholestasis, vitamin_k, ursodiol, rifampicin, fenofibrate, cholestyramine, corticosteroids
+Chronic cholestasis, fenofibrate, vitamin_k, rifampicin, cholestyramine, ursodeoxycholic acid, corticosteroids
+Chronic cholestasis, corticosteroids, ursodeoxycholic acid, rifampicin, cholestyramine, vitamin_k, fenofibrate
+Chronic cholestasis, rifampicin, fenofibrate, vitamin_k, ursodeoxycholic acid, cholestyramine, corticosteroids
+Chronic cholestasis, cholestyramine, vitamin_k, ursodeoxycholic acid, rifampicin, corticosteroids, fenofibrate
+Chronic cholestasis, vitamin_k, fenofibrate, cholestyramine, rifampicin, corticosteroids, ursodeoxycholic acid
+Chronic cholestasis, ursodeoxycholic acid, rifampicin, cholestyramine, vitamin_k, fenofibrate, corticosteroids
+Chronic cholestasis, cholestyramine, fenofibrate, ursodeoxycholic acid, vitamin_k, rifampicin, corticosteroids
+Chronic cholestasis, rifampicin, corticosteroids, vitamin_k, ursodeoxycholic acid, fenofibrate, cholestyramine
+Chronic cholestasis, fenofibrate, rifampicin, cholestyramine, vitamin_k, ursodeoxycholic acid, corticosteroids
+Chronic cholestasis, ursodeoxycholic acid, vitamin_k, cholestyramine, rifampicin, corticosteroids, fenofibrate
+Chronic cholestasis, cholestyramine, corticosteroids, ursodeoxycholic acid, rifampicin, vitamin_k, fenofibrate
+Chronic cholestasis, rifampicin, cholestyramine, vitamin_k, ursodeoxycholic acid, fenofibrate, corticosteroids
+Chronic cholestasis, vitamin_k, rifampicin, cholestyramine, corticosteroids, ursodeoxycholic acid, fenofibrate
+Chronic cholestasis, corticosteroids, cholestyramine, fenofibrate, vitamin_k, rifampicin, ursodeoxycholic acid
+Chronic cholestasis, fenofibrate, vitamin_k, corticosteroids, cholestyramine, rifampicin, ursodeoxycholic acid
+Chronic cholestasis, rifampicin, ursodeoxycholic acid, vitamin_k, corticosteroids, fenofibrate, cholestyramine
+Drug Reaction, antihistamines, corticosteroids, epinephrine, immunosuppressants, topical corticosteroids, leukotriene modifiers
+Drug Reaction, corticosteroids, antihistamines, immunosuppressants, epinephrine, leukotriene modifiers, topical corticosteroids
+Drug Reaction, epinephrine, corticosteroids, antihistamines, immunosuppressants, leukotriene modifiers, topical corticosteroids
+Drug Reaction, diphenhydramine, prednisone, epinephrine, montelukast, hydrocortisone, cetirizine
+Drug Reaction, montelukast, diphenhydramine, prednisone, hydrocortisone, epinephrine, cetirizine
+Drug Reaction, hydrocortisone, epinephrine, diphenhydramine, montelukast, cetirizine, prednisone
+Drug Reaction, prednisone, antihistamines, epinephrine, topical corticosteroids, immunosuppressants, leukotriene modifiers
+Drug Reaction, immunosuppressants, montelukast, diphenhydramine, hydrocortisone, corticosteroids, epinephrine
+Drug Reaction, leukotriene modifiers, immunosuppressants, diphenhydramine, hydrocortisone, corticosteroids, epinephrine
+Drug Reaction, cetirizine, hydrocortisone, diphenhydramine, montelukast, epinephrine, prednisone
+Drug Reaction, montelukast, cetirizine, hydrocortisone, prednisone, diphenhydramine, epinephrine
+Drug Reaction, hydrocortisone, cetirizine, epinephrine, montelukast, diphenhydramine, prednisone
+Drug Reaction, corticosteroids, epinephrine, montelukast, immunosuppressants, diphenhydramine, leukotriene modifiers
+Drug Reaction, leukotriene modifiers, montelukast, diphenhydramine, hydrocortisone, epinephrine, corticosteroids
+Drug Reaction, immunosuppressants, hydrocortisone, diphenhydramine, epinephrine, corticosteroids, montelukast
+Drug Reaction, hydrocortisone, epinephrine, corticosteroids, montelukast, immunosuppressants, diphenhydramine
+Drug Reaction, cetirizine, epinephrine, corticosteroids, montelukast, diphenhydramine, immunosuppressants
+Drug Reaction, montelukast, corticosteroids, immunosuppressants, diphenhydramine, cetirizine, hydrocortisone
+Drug Reaction, diphenhydramine, immunosuppressants, hydrocortisone, montelukast, epinephrine, corticosteroids
+Drug Reaction, epinephrine, diphenhydramine, corticosteroids, leukotriene modifiers, montelukast, hydrocortisone
+Peptic ulcer disease, proton_pump_inhibitors, H2_receptor_antagonists, antacids, antibiotics, mucosal_protectants, bismuth_compounds
+Peptic ulcer disease, H2_receptor_antagonists, proton_pump_inhibitors, bismuth_compounds, antibiotics, antacids, mucosal_protectants
+Peptic ulcer disease, antacids, mucosal_protectants, proton_pump_inhibitors, H2_receptor_antagonists, bismuth_compounds, antibiotics
+Peptic ulcer disease, omeprazole, ranitidine, aluminum_hydroxide, amoxicillin, sucralfate, bismuth_subsalicylate
+Peptic ulcer disease, amoxicillin, omeprazole, ranitidine, bismuth_subsalicylate, sucralfate, aluminum_hydroxide
+Peptic ulcer disease, sucralfate, aluminum_hydroxide, omeprazole, amoxicillin, ranitidine, bismuth_subsalicylate
+Peptic ulcer disease, bismuth_subsalicylate, omeprazole, antibiotics, H2_receptor_antagonists, antacids, mucosal_protectants
+Peptic ulcer disease, ranitidine, sucralfate, omeprazole, bismuth_compounds, antacids, antibiotics
+Peptic ulcer disease, mucosal_protectants, bismuth_compounds, ranitidine, omeprazole, antibiotics, antacids
+Peptic ulcer disease, aluminum_hydroxide, sucralfate, ranitidine, amoxicillin, omeprazole, bismuth_subsalicylate
+Peptic ulcer disease, amoxicillin, aluminum_hydroxide, sucralfate, ranitidine, omeprazole, bismuth_compounds
+Peptic ulcer disease, sucralfate, bismuth_subsalicylate, omeprazole, antibiotics, ranitidine, antacids
+Peptic ulcer disease, proton_pump_inhibitors, bismuth_compounds, ranitidine, mucosal_protectants, aluminum_hydroxide, antibiotics
+Peptic ulcer disease, H2_receptor_antagonists, omeprazole, mucosal_protectants, bismuth_subsalicylate, antacids, sucralfate
+Peptic ulcer disease, bismuth_compounds, omeprazole, sucralfate, antacids, ranitidine, antibiotics
+Peptic ulcer disease, ranitidine, bismuth_subsalicylate, aluminum_hydroxide, omeprazole, antibiotics, sucralfate
+Peptic ulcer disease, sucralfate, ranitidine, aluminum_hydroxide, proton_pump_inhibitors, antacids, bismuth_compounds
+Peptic ulcer disease, antibiotics, omeprazole, aluminum_hydroxide, bismuth_subsalicylate, H2_receptor_antagonists, sucralfate
+Peptic ulcer disease, bismuth_subsalicylate, sucralfate, proton_pump_inhibitors, ranitidine, antacids, antibiotics
+Peptic ulcer disease, omeprazole, bismuth_compounds, ranitidine, aluminum_hydroxide, mucosal_protectants, antacids
+Peptic ulcer disease, antacids, ranitidine, bismuth_subsalicylate, omeprazole, mucosal_protectants, antibiotics
+AIDS, Zidovudine, Lamivudine, Efavirenz, Tenofovir, Emtricitabine, Atazanavir
+AIDS, Lamivudine, Zidovudine, Atazanavir, Efavirenz, Tenofovir, Emtricitabine
+AIDS, Efavirenz, Tenofovir, Zidovudine, Emtricitabine, Atazanavir, Lamivudine
+AIDS, Tenofovir, Lamivudine, Efavirenz, Atazanavir, Emtricitabine, Zidovudine
+AIDS, Emtricitabine, Zidovudine, Atazanavir, Lamivudine, Efavirenz, Tenofovir
+AIDS, Atazanavir, Tenofovir, Lamivudine, Emtricitabine, Zidovudine, Efavirenz
+AIDS, Zidovudine, Emtricitabine, Atazanavir, Tenofovir, Efavirenz, Lamivudine
+AIDS, Lamivudine, Efavirenz, Tenofovir, Zidovudine, Emtricitabine, Atazanavir
+AIDS, Efavirenz, Zidovudine, Lamivudine, Emtricitabine, Atazanavir, Tenofovir
+AIDS, Tenofovir, Zidovudine, Emtricitabine, Atazanavir, Lamivudine, Efavirenz
+AIDS, Emtricitabine, Atazanavir, Lamivudine, Efavirenz, Tenofovir, Zidovudine
+AIDS, Atazanavir, Zidovudine, Efavirenz, Tenofovir, Emtricitabine, Lamivudine
+AIDS, Zidovudine, Tenofovir, Lamivudine, Efavirenz, Atazanavir, Emtricitabine
+AIDS, Efavirenz, Atazanavir, Zidovudine, Emtricitabine, Lamivudine, Tenofovir
+AIDS, Tenofovir, Emtricitabine, Lamivudine, Efavirenz, Zidovudine, Atazanavir
+AIDS, Lamivudine, Zidovudine, Efavirenz, Emtricitabine, Tenofovir, Atazanavir
+AIDS, Efavirenz, Tenofovir, Atazanavir, Lamivudine, Zidovudine, Emtricitabine
+AIDS, Emtricitabine, Efavirenz, Zidovudine, Tenofovir, Atazanavir, Lamivudine
+AIDS, Tenofovir, Lamivudine, Efavirenz, Emtricitabine, Zidovudine, Atazanavir
+AIDS, Lamivudine, Emtricitabine, Atazanavir, Efavirenz, Zidovudine, Tenofovir
+AIDS, Zidovudine, Efavirenz, Tenofovir, Atazanavir, Lamivudine, Emtricitabine
+AIDS, Atazanavir, Emtricitabine, Zidovudine, Lamivudine, Efavirenz, Tenofovir
+AIDS, Tenofovir, Lamivudine, Zidovudine, Emtricitabine, Efavirenz, Atazanavir
+AIDS, Emtricitabine, Atazanavir, Tenofovir, Lamivudine, Zidovudine, Efavirenz
+Diabetes, metformin, sulfonylureas, DPP-4_inhibitors, GLP-1_receptor_agonists, SGLT2_inhibitors, insulin
+Diabetes, sulfonylureas, metformin, insulin, DPP-4_inhibitors, SGLT2_inhibitors, GLP-1_receptor_agonists
+Diabetes, DPP-4_inhibitors, GLP-1_receptor_agonists, insulin, metformin, sulfonylureas, SGLT2_inhibitors
+Diabetes, glipizide, metformin, sitagliptin, liraglutide, canagliflozin, insulin
+Diabetes, sitagliptin, liraglutide, glipizide, canagliflozin, metformin, insulin
+Diabetes, liraglutide, canagliflozin, sitagliptin, insulin, metformin, glipizide
+Diabetes, insulin, metformin, DPP-4_inhibitors, SGLT2_inhibitors, GLP-1_receptor_agonists, pioglitazone
+Diabetes, pioglitazone, GLP-1_receptor_agonists, metformin, insulin, DPP-4_inhibitors, SGLT2_inhibitors
+Diabetes, SGLT2_inhibitors, pioglitazone, DPP-4_inhibitors, metformin, insulin, GLP-1_receptor_agonists
+Diabetes, glimepiride, metformin, sitagliptin, empagliflozin, liraglutide, insulin
+Diabetes, empagliflozin, glimepiride, sitagliptin, liraglutide, metformin, insulin
+Diabetes, liraglutide, empagliflozin, metformin, glimepiride, sitagliptin, insulin
+Diabetes, metformin, canagliflozin, insulin, glipizide, DPP-4_inhibitors, GLP-1_receptor_agonists
+Diabetes, DPP-4_inhibitors, metformin, canagliflozin, insulin, glipizide, GLP-1_receptor_agonists
+Diabetes, GLP-1_receptor_agonists, glipizide, canagliflozin, metformin, DPP-4_inhibitors, insulin
+Diabetes, sitagliptin, glimepiride, metformin, empagliflozin, pioglitazone, insulin
+Diabetes, empagliflozin, pioglitazone, metformin, sitagliptin, glimepiride, insulin
+Diabetes, pioglitazone, sitagliptin, glimepiride, metformin, empagliflozin, insulin
+Diabetes, insulin, glimepiride, liraglutide, metformin, SGLT2_inhibitors, DPP-4_inhibitors
+Diabetes, liraglutide, SGLT2_inhibitors, insulin, metformin, DPP-4_inhibitors, glimepiride
+Diabetes, DPP-4_inhibitors, insulin, SGLT2_inhibitors, glimepiride, metformin, liraglutide
+Diabetes, metformin, DPP-4_inhibitors, empagliflozin, liraglutide, glipizide, insulin
+Diabetes, glipizide, empagliflozin, DPP-4_inhibitors, metformin, insulin, liraglutide
+Diabetes, liraglutide, metformin, glipizide, empagliflozin, insulin, DPP-4_inhibitors
+Gastroenteritis, Loperamide, Ondansetron, Metoclopramide, Diphenoxylate, Prochlorperazine, Bismuth_Subsalicylate
+Gastroenteritis, Ondansetron, Loperamide, Bismuth_Subsalicylate, Metoclopramide, Diphenoxylate, Prochlorperazine
+Gastroenteritis, Metoclopramide, Bismuth_Subsalicylate, Loperamide, Diphenoxylate, Ondansetron, Prochlorperazine
+Gastroenteritis, Diphenoxylate, Ondansetron, Metoclopramide, Prochlorperazine, Loperamide, Bismuth_Subsalicylate
+Gastroenteritis, Prochlorperazine, Loperamide, Ondansetron, Bismuth_Subsalicylate, Diphenoxylate, Metoclopramide
+Gastroenteritis, Bismuth_Subsalicylate, Metoclopramide, Loperamide, Prochlorperazine, Ondansetron, Diphenoxylate
+Gastroenteritis, Loperamide, Diphenoxylate, Prochlorperazine, Bismuth_Subsalicylate, Metoclopramide, Ondansetron
+Gastroenteritis, Ondansetron, Diphenoxylate, Bismuth_Subsalicylate, Prochlorperazine, Loperamide, Metoclopramide
+Gastroenteritis, Metoclopramide, Ondansetron, Diphenoxylate, Loperamide, Prochlorperazine, Bismuth_Subsalicylate
+Gastroenteritis, Diphenoxylate, Bismuth_Subsalicylate, Loperamide, Ondansetron, Metoclopramide, Prochlorperazine
+Gastroenteritis, Prochlorperazine, Ondansetron, Bismuth_Subsalicylate, Diphenoxylate, Loperamide, Metoclopramide
+Gastroenteritis, Bismuth_Subsalicylate, Loperamide, Ondansetron, Metoclopramide, Diphenoxylate, Prochlorperazine
+Gastroenteritis, Loperamide, Prochlorperazine, Bismuth_Subsalicylate, Ondansetron, Metoclopramide, Diphenoxylate
+Gastroenteritis, Ondansetron, Metoclopramide, Loperamide, Diphenoxylate, Prochlorperazine, Bismuth_Subsalicylate
+Gastroenteritis, Metoclopramide, Prochlorperazine, Bismuth_Subsalicylate, Loperamide, Diphenoxylate, Ondansetron
+Gastroenteritis, Diphenoxylate, Loperamide, Prochlorperazine, Metoclopramide, Ondansetron, Bismuth_Subsalicylate
+Gastroenteritis, Ondansetron, Loperamide, Bismuth_Subsalicylate, Metoclopramide, Diphenoxylate, Prochlorperazine
+Gastroenteritis, Metoclopramide, Diphenoxylate, Prochlorperazine, Ondansetron, Bismuth_Subsalicylate, Loperamide
+Gastroenteritis, Loperamide, Bismuth_Subsalicylate, Ondansetron, Metoclopramide, Diphenoxylate, Prochlorperazine
+Gastroenteritis, Bismuth_Subsalicylate, Ondansetron, Loperamide, Diphenoxylate, Prochlorperazine, Metoclopramide
+Gastroenteritis, Diphenoxylate, Metoclopramide, Ondansetron, Loperamide, Bismuth_Subsalicylate, Prochlorperazine
+Gastroenteritis, Prochlorperazine, Metoclopramide, Loperamide, Bismuth_Subsalicylate, Ondansetron, Diphenoxylate
+Bronchial Asthma, bronchodilators, corticosteroids, leukotriene modifiers, inhaled corticosteroids, long-acting beta agonists, anticholinergics
+Bronchial Asthma, corticosteroids, leukotriene modifiers, anticholinergics, bronchodilators, long-acting beta agonists, inhaled corticosteroids
+Bronchial Asthma, inhaled corticosteroids, bronchodilators, long-acting beta agonists, leukotriene modifiers, corticosteroids, anticholinergics
+Bronchial Asthma, albuterol, fluticasone, salmeterol, montelukast, budesonide, ipratropium
+Bronchial Asthma, montelukast, albuterol, fluticasone, ipratropium, salmeterol, budesonide
+Bronchial Asthma, salmeterol, ipratropium, albuterol, budesonide, montelukast, fluticasone
+Bronchial Asthma, budesonide, albuterol, long-acting beta agonists, inhaled corticosteroids, leukotriene modifiers, corticosteroids
+Bronchial Asthma, ipratropium, leukotriene modifiers, budesonide, albuterol, long-acting beta agonists, corticosteroids
+Bronchial Asthma, leukotriene modifiers, budesonide, albuterol, corticosteroids, ipratropium, long-acting beta agonists
+Bronchial Asthma, salbutamol, budesonide, fluticasone, montelukast, ipratropium, salmeterol
+Bronchial Asthma, montelukast, salbutamol, fluticasone, salmeterol, budesonide, ipratropium
+Bronchial Asthma, fluticasone, salmeterol, salbutamol, montelukast, ipratropium, budesonide
+Bronchial Asthma, corticosteroids, albuterol, montelukast, long-acting beta agonists, ipratropium, inhaled corticosteroids
+Bronchial Asthma, inhaled corticosteroids, montelukast, albuterol, corticosteroids, long-acting beta agonists, ipratropium
+Bronchial Asthma, long-acting beta agonists, ipratropium, inhaled corticosteroids, montelukast, albuterol, corticosteroids
+Bronchial Asthma, budesonide, salmeterol, albuterol, ipratropium, leukotriene modifiers, corticosteroids
+Bronchial Asthma, salmeterol, ipratropium, budesonide, leukotriene modifiers, albuterol, corticosteroids
+Bronchial Asthma, leukotriene modifiers, budesonide, salmeterol, albuterol, corticosteroids, ipratropium
+Bronchial Asthma, ipratropium, fluticasone, montelukast, albuterol, corticosteroids, long-acting beta agonists
+Bronchial Asthma, montelukast, fluticasone, albuterol, long-acting beta agonists, ipratropium, corticosteroids
+Bronchial Asthma, albuterol, long-acting beta agonists, fluticasone, montelukast, ipratropium, corticosteroids
+Hypertension, Lisinopril, Amlodipine, Losartan, Hydrochlorothiazide, Metoprolol, Atenolol
+Hypertension, Amlodipine, Lisinopril, Hydrochlorothiazide, Losartan, Metoprolol, Atenolol
+Hypertension, Losartan, Hydrochlorothiazide, Amlodipine, Atenolol, Lisinopril, Metoprolol
+Hypertension, Hydrochlorothiazide, Metoprolol, Losartan, Amlodipine, Atenolol, Lisinopril
+Hypertension, Metoprolol, Lisinopril, Amlodipine, Hydrochlorothiazide, Atenolol, Losartan
+Hypertension, Atenolol, Losartan, Lisinopril, Hydrochlorothiazide, Amlodipine, Metoprolol
+Hypertension, Lisinopril, Hydrochlorothiazide, Atenolol, Metoprolol, Amlodipine, Losartan
+Hypertension, Amlodipine, Losartan, Metoprolol, Hydrochlorothiazide, Atenolol, Lisinopril
+Hypertension, Hydrochlorothiazide, Lisinopril, Atenolol, Losartan, Amlodipine, Metoprolol
+Hypertension, Losartan, Metoprolol, Amlodipine, Lisinopril, Hydrochlorothiazide, Atenolol
+Hypertension, Metoprolol, Atenolol, Hydrochlorothiazide, Lisinopril, Losartan, Amlodipine
+Hypertension, Hydrochlorothiazide, Amlodipine, Atenolol, Metoprolol, Lisinopril, Losartan
+Hypertension, Lisinopril, Amlodipine, Atenolol, Hydrochlorothiazide, Metoprolol, Losartan
+Hypertension, Atenolol, Losartan, Hydrochlorothiazide, Metoprolol, Amlodipine, Lisinopril
+Hypertension, Metoprolol, Hydrochlorothiazide, Losartan, Atenolol, Lisinopril, Amlodipine
+Hypertension, Hydrochlorothiazide, Lisinopril, Amlodipine, Atenolol, Losartan, Metoprolol
+Hypertension, Lisinopril, Losartan, Metoprolol, Hydrochlorothiazide, Atenolol, Amlodipine
+Hypertension, Amlodipine, Hydrochlorothiazide, Atenolol, Losartan, Lisinopril, Metoprolol
+Hypertension, Atenolol, Lisinopril, Hydrochlorothiazide, Amlodipine, Metoprolol, Losartan
+Hypertension, Losartan, Hydrochlorothiazide, Metoprolol, Amlodipine, Lisinopril, Atenolol
+Hypertension, Metoprolol, Amlodipine, Losartan, Lisinopril, Hydrochlorothiazide, Atenolol
+Hypertension, Hydrochlorothiazide, Amlodipine, Losartan, Atenolol, Metoprolol, Lisinopril
+Migraine, triptans, NSAIDs, ergotamine, antiemetics, beta-blockers, antidepressants
+Migraine, NSAIDs, triptans, beta-blockers, ergotamine, antiemetics, antidepressants
+Migraine, antiemetics, beta-blockers, triptans, NSAIDs, ergotamine, antidepressants
+Migraine, sumatriptan, ibuprofen, naproxen, metoclopramide, propranolol, amitriptyline
+Migraine, naproxen, sumatriptan, metoclopramide, propranolol, amitriptyline, ergotamine
+Migraine, propranolol, sumatriptan, naproxen, amitriptyline, metoclopramide, ergotamine
+Migraine, amitriptyline, triptans, antiemetics, beta-blockers, ergotamine, NSAIDs
+Migraine, metoclopramide, ergotamine, triptans, ibuprofen, beta-blockers, antidepressants
+Migraine, beta-blockers, amitriptyline, metoclopramide, sumatriptan, ergotamine, NSAIDs
+Migraine, sumatriptan, propranolol, naproxen, amitriptyline, ibuprofen, ergotamine
+Migraine, amitriptyline, ibuprofen, sumatriptan, metoclopramide, propranolol, ergotamine
+Migraine, triptans, naproxen, metoclopramide, beta-blockers, amitriptyline, NSAIDs
+Migraine, ergotamine, metoclopramide, sumatriptan, beta-blockers, NSAIDs, amitriptyline
+Migraine, naproxen, triptans, propranolol, amitriptyline, ergotamine, antiemetics
+Migraine, metoclopramide, propranolol, ergotamine, triptans, sumatriptan, NSAIDs
+Migraine, propranolol, naproxen, sumatriptan, amitriptyline, beta-blockers, metoclopramide
+Migraine, antiemetics, sumatriptan, propranolol, ergotamine, beta-blockers, ibuprofen
+Migraine, beta-blockers, naproxen, metoclopramide, ergotamine, antiemetics, amitriptyline
+Migraine, ibuprofen, antiemetics, propranolol, ergotamine, sumatriptan, triptans
+Migraine, ergotamine, sumatriptan, amitriptyline, naproxen, metoclopramide, beta-blockers
+Cervical spondylosis, Acetaminophen, Ibuprofen, Naproxen, Diclofenac, Muscle relaxants, Gabapentin
+Cervical spondylosis, Ibuprofen, Acetaminophen, Diclofenac, Muscle relaxants, Naproxen, Gabapentin
+Cervical spondylosis, Diclofenac, Naproxen, Acetaminophen, Gabapentin, Muscle relaxants, Ibuprofen
+Cervical spondylosis, Naproxen, Ibuprofen, Muscle relaxants, Diclofenac, Acetaminophen, Gabapentin
+Cervical spondylosis, Muscle relaxants, Gabapentin, Acetaminophen, Naproxen, Ibuprofen, Diclofenac
+Cervical spondylosis, Gabapentin, Naproxen, Ibuprofen, Muscle relaxants, Acetaminophen, Diclofenac
+Cervical spondylosis, Acetaminophen, Muscle relaxants, Diclofenac, Naproxen, Ibuprofen, Gabapentin
+Cervical spondylosis, Ibuprofen, Diclofenac, Gabapentin, Acetaminophen, Naproxen, Muscle relaxants
+Cervical spondylosis, Naproxen, Gabapentin, Muscle relaxants, Acetaminophen, Ibuprofen, Diclofenac
+Cervical spondylosis, Diclofenac, Acetaminophen, Naproxen, Gabapentin, Ibuprofen, Muscle relaxants
+Cervical spondylosis, Muscle relaxants, Ibuprofen, Diclofenac, Gabapentin, Acetaminophen, Naproxen
+Cervical spondylosis, Gabapentin, Diclofenac, Naproxen, Ibuprofen, Acetaminophen, Muscle relaxants
+Cervical spondylosis, Naproxen, Acetaminophen, Muscle relaxants, Gabapentin, Ibuprofen, Diclofenac
+Cervical spondylosis, Acetaminophen, Ibuprofen, Gabapentin, Naproxen, Diclofenac, Muscle relaxants
+Cervical spondylosis, Ibuprofen, Muscle relaxants, Acetaminophen, Gabapentin, Diclofenac, Naproxen
+Cervical spondylosis, Diclofenac, Gabapentin, Acetaminophen, Ibuprofen, Muscle relaxants, Naproxen
+Cervical spondylosis, Naproxen, Muscle relaxants, Gabapentin, Diclofenac, Acetaminophen, Ibuprofen
+Cervical spondylosis, Muscle relaxants, Naproxen, Ibuprofen, Acetaminophen, Diclofenac, Gabapentin
+Cervical spondylosis, Ibuprofen, Naproxen, Gabapentin, Muscle relaxants, Acetaminophen, Diclofenac
+Cervical spondylosis, Gabapentin, Naproxen, Diclofenac, Muscle relaxants, Acetaminophen, Ibuprofen
+Cervical spondylosis, Acetaminophen, Diclofenac, Ibuprofen, Gabapentin, Naproxen, Muscle relaxants
+Paralysis (brain hemorrhage), anticoagulants, antiplatelet_agents, thrombolytics, corticosteroids, neuroprotective_agents, analgesics
+Paralysis (brain hemorrhage), antiplatelet_agents, anticoagulants, corticosteroids, thrombolytics, neuroprotective_agents, analgesics
+Paralysis (brain hemorrhage), corticosteroids, anticoagulants, analgesics, thrombolytics, neuroprotective_agents, antiplatelet_agents
+Paralysis (brain hemorrhage), aspirin, warfarin, alteplase, dexamethasone, mannitol, morphine
+Paralysis (brain hemorrhage), alteplase, aspirin, dexamethasone, warfarin, mannitol, morphine
+Paralysis (brain hemorrhage), warfarin, alteplase, mannitol, dexamethasone, aspirin, morphine
+Paralysis (brain hemorrhage), mannitol, alteplase, corticosteroids, antiplatelet_agents, analgesics, warfarin
+Paralysis (brain hemorrhage), morphine, thrombolytics, warfarin, dexamethasone, antiplatelet_agents, analgesics
+Paralysis (brain hemorrhage), neuroprotective_agents, dexamethasone, morphine, alteplase, warfarin, antiplatelet_agents
+Paralysis (brain hemorrhage), dexamethasone, warfarin, aspirin, mannitol, thrombolytics, morphine
+Paralysis (brain hemorrhage), thrombolytics, morphine, warfarin, aspirin, dexamethasone, neuroprotective_agents
+Paralysis (brain hemorrhage), analgesics, dexamethasone, alteplase, antiplatelet_agents, morphine, anticoagulants
+Paralysis (brain hemorrhage), neuroprotective_agents, thrombolytics, analgesics, warfarin, dexamethasone, aspirin
+Paralysis (brain hemorrhage), aspirin, neuroprotective_agents, anticoagulants, mannitol, thrombolytics, morphine
+Paralysis (brain hemorrhage), morphine, neuroprotective_agents, warfarin, thrombolytics, dexamethasone, antiplatelet_agents
+Paralysis (brain hemorrhage), dexamethasone, warfarin, antiplatelet_agents, morphine, analgesics, alteplase
+Paralysis (brain hemorrhage), warfarin, morphine, neuroprotective_agents, aspirin, dexamethasone, thrombolytics
+Paralysis (brain hemorrhage), thrombolytics, anticoagulants, dexamethasone, mannitol, analgesics, neuroprotective_agents
+Paralysis (brain hemorrhage), analgesics, mannitol, warfarin, thrombolytics, corticosteroids, neuroprotective_agents
+Paralysis (brain hemorrhage), neuroprotective_agents, dexamethasone, warfarin, antiplatelet_agents, alteplase, analgesics
+Paralysis (brain hemorrhage), anticoagulants, morphine, thrombolytics, neuroprotective_agents, dexamethasone, analgesics
+Jaundice, Ursodeoxycholic_Acid, Phenobarbital, Lactulose, Cholestyramine, N-acetylcysteine, Vitamin_K
+Jaundice, Phenobarbital, Ursodeoxycholic_Acid, Lactulose, Cholestyramine, N-acetylcysteine, Vitamin_K
+Jaundice, Lactulose, Vitamin_K, Ursodeoxycholic_Acid, Phenobarbital, Cholestyramine, N-acetylcysteine
+Jaundice, Cholestyramine, N-acetylcysteine, Phenobarbital, Ursodeoxycholic_Acid, Lactulose, Vitamin_K
+Jaundice, N-acetylcysteine, Lactulose, Cholestyramine, Vitamin_K, Phenobarbital, Ursodeoxycholic_Acid
+Jaundice, Vitamin_K, Cholestyramine, Ursodeoxycholic_Acid, Lactulose, N-acetylcysteine, Phenobarbital
+Jaundice, Ursodeoxycholic_Acid, Lactulose, Phenobarbital, N-acetylcysteine, Cholestyramine, Vitamin_K
+Jaundice, Lactulose, N-acetylcysteine, Vitamin_K, Phenobarbital, Cholestyramine, Ursodeoxycholic_Acid
+Jaundice, Phenobarbital, Cholestyramine, N-acetylcysteine, Ursodeoxycholic_Acid, Lactulose, Vitamin_K
+Jaundice, Cholestyramine, Vitamin_K, N-acetylcysteine, Lactulose, Ursodeoxycholic_Acid, Phenobarbital
+Jaundice, N-acetylcysteine, Ursodeoxycholic_Acid, Lactulose, Cholestyramine, Phenobarbital, Vitamin_K
+Jaundice, Vitamin_K, Ursodeoxycholic_Acid, N-acetylcysteine, Phenobarbital, Lactulose, Cholestyramine
+Jaundice, Lactulose, N-acetylcysteine, Vitamin_K, Cholestyramine, Ursodeoxycholic_Acid, Phenobarbital
+Jaundice, Ursodeoxycholic_Acid, Cholestyramine, Phenobarbital, N-acetylcysteine, Lactulose, Vitamin_K
+Jaundice, Phenobarbital, Lactulose, Vitamin_K, Cholestyramine, Ursodeoxycholic_Acid, N-acetylcysteine
+Jaundice, Cholestyramine, N-acetylcysteine, Lactulose, Phenobarbital, Vitamin_K, Ursodeoxycholic_Acid
+Jaundice, N-acetylcysteine, Lactulose, Cholestyramine, Vitamin_K, Ursodeoxycholic_Acid, Phenobarbital
+Jaundice, Vitamin_K, Phenobarbital, N-acetylcysteine, Cholestyramine, Lactulose, Ursodeoxycholic_Acid
+Jaundice, Lactulose, Vitamin_K, N-acetylcysteine, Ursodeoxycholic_Acid, Cholestyramine, Phenobarbital
+Jaundice, Ursodeoxycholic_Acid, N-acetylcysteine, Lactulose, Phenobarbital, Cholestyramine, Vitamin_K
+Jaundice, N-acetylcysteine, Cholestyramine, Lactulose, Vitamin_K, Ursodeoxycholic_Acid, Phenobarbital
+Malaria, antimalarials, chloroquine, artemisinin, primaquine, mefloquine, doxycycline
+Malaria, artemisinin, antimalarials, chloroquine, primaquine, mefloquine, doxycycline
+Malaria, primaquine, chloroquine, artemisinin, mefloquine, doxycycline, antimalarials
+Malaria, artemether, chloroquine, quinine, mefloquine, doxycycline, primaquine
+Malaria, mefloquine, artemether, primaquine, doxycycline, chloroquine, quinine
+Malaria, quinine, primaquine, chloroquine, artemisinin, antimalarials, doxycycline
+Malaria, doxycycline, chloroquine, artemisinin, primaquine, mefloquine, antimalarials
+Malaria, primaquine, quinine, artemether, doxycycline, chloroquine, mefloquine
+Malaria, antimalarials, quinine, artemisinin, mefloquine, chloroquine, doxycycline
+Malaria, chloroquine, mefloquine, primaquine, artemether, quinine, doxycycline
+Malaria, artemisinin, quinine, chloroquine, mefloquine, doxycycline, primaquine
+Malaria, doxycycline, primaquine, artemether, chloroquine, quinine, mefloquine
+Malaria, mefloquine, chloroquine, antimalarials, artemisinin, doxycycline, primaquine
+Malaria, primaquine, artemisinin, mefloquine, doxycycline, chloroquine, quinine
+Malaria, quinine, artemisinin, primaquine, doxycycline, mefloquine, chloroquine
+Malaria, chloroquine, artemisinin, doxycycline, mefloquine, primaquine, antimalarials
+Malaria, artemether, primaquine, chloroquine, doxycycline, quinine, antimalarials
+Malaria, mefloquine, artemisinin, chloroquine, doxycycline, primaquine, quinine
+Malaria, antimalarials, doxycycline, primaquine, artemisinin, mefloquine, quinine
+Malaria, quinine, artemether, mefloquine, chloroquine, primaquine, doxycycline
+Chicken pox, Acetaminophen, Diphenhydramine, Acyclovir, Calamine lotion, Ibuprofen, Antihistamines
+Chicken pox, Diphenhydramine, Acetaminophen, Acyclovir, Antihistamines, Calamine lotion, Ibuprofen
+Chicken pox, Acyclovir, Calamine lotion, Acetaminophen, Ibuprofen, Diphenhydramine, Antihistamines
+Chicken pox, Calamine lotion, Ibuprofen, Acyclovir, Diphenhydramine, Acetaminophen, Antihistamines
+Chicken pox, Ibuprofen, Acyclovir, Diphenhydramine, Antihistamines, Acetaminophen, Calamine lotion
+Chicken pox, Antihistamines, Acetaminophen, Calamine lotion, Diphenhydramine, Ibuprofen, Acyclovir
+Chicken pox, Acetaminophen, Acyclovir, Antihistamines, Ibuprofen, Calamine lotion, Diphenhydramine
+Chicken pox, Diphenhydramine, Ibuprofen, Antihistamines, Acyclovir, Calamine lotion, Acetaminophen
+Chicken pox, Acyclovir, Antihistamines, Acetaminophen, Calamine lotion, Diphenhydramine, Ibuprofen
+Chicken pox, Calamine lotion, Antihistamines, Diphenhydramine, Acyclovir, Ibuprofen, Acetaminophen
+Chicken pox, Ibuprofen, Diphenhydramine, Calamine lotion, Antihistamines, Acyclovir, Acetaminophen
+Chicken pox, Antihistamines, Acyclovir, Acetaminophen, Ibuprofen, Diphenhydramine, Calamine lotion
+Chicken pox, Acetaminophen, Diphenhydramine, Ibuprofen, Antihistamines, Calamine lotion, Acyclovir
+Chicken pox, Acyclovir, Ibuprofen, Calamine lotion, Antihistamines, Acetaminophen, Diphenhydramine
+Chicken pox, Diphenhydramine, Calamine lotion, Acyclovir, Acetaminophen, Ibuprofen, Antihistamines
+Chicken pox, Ibuprofen, Acyclovir, Antihistamines, Diphenhydramine, Calamine lotion, Acetaminophen
+Chicken pox, Calamine lotion, Antihistamines, Ibuprofen, Acyclovir, Diphenhydramine, Acetaminophen
+Chicken pox, Acyclovir, Calamine lotion, Diphenhydramine, Antihistamines, Acetaminophen, Ibuprofen
+Chicken pox, Ibuprofen, Acyclovir, Calamine lotion, Diphenhydramine, Antihistamines, Acetaminophen
+Chicken pox, Acetaminophen, Ibuprofen, Antihistamines, Acyclovir, Diphenhydramine, Calamine lotion
+Chicken pox, Antihistamines, Acetaminophen, Diphenhydramine, Calamine lotion, Ibuprofen, Acyclovir
+Dengue, analgesics, antipyretics, fluids, corticosteroids, intravenous_immunoglobulin, antivirals
+Dengue, antipyretics, analgesics, intravenous_immunoglobulin, fluids, corticosteroids, antivirals
+Dengue, fluids, corticosteroids, analgesics, antipyretics, antivirals, intravenous_immunoglobulin
+Dengue, paracetamol, ibuprofen, fluids, corticosteroids, dengue_immunoglobulin, antivirals
+Dengue, fluids, paracetamol, intravenous_immunoglobulin, ibuprofen, corticosteroids, antivirals
+Dengue, intravenous_immunoglobulin, paracetamol, fluids, corticosteroids, ibuprofen, antivirals
+Dengue, antivirals, paracetamol, fluids, corticosteroids, intravenous_immunoglobulin, analgesics
+Dengue, ibuprofen, fluids, paracetamol, intravenous_immunoglobulin, corticosteroids, analgesics
+Dengue, corticosteroids, fluids, ibuprofen, paracetamol, analgesics, intravenous_immunoglobulin
+Dengue, analgesics, intravenous_immunoglobulin, fluids, paracetamol, ibuprofen, corticosteroids
+Dengue, intravenous_immunoglobulin, fluids, analgesics, corticosteroids, antipyretics, antivirals
+Dengue, fluids, paracetamol, analgesics, intravenous_immunoglobulin, ibuprofen, corticosteroids
+Dengue, corticosteroids, fluids, intravenous_immunoglobulin, analgesics, antivirals, paracetamol
+Dengue, antivirals, fluids, ibuprofen, paracetamol, corticosteroids, intravenous_immunoglobulin
+Dengue, paracetamol, fluids, intravenous_immunoglobulin, analgesics, ibuprofen, corticosteroids
+Dengue, analgesics, fluids, intravenous_immunoglobulin, corticosteroids, paracetamol, antivirals
+Dengue, corticosteroids, ibuprofen, intravenous_immunoglobulin, fluids, paracetamol, analgesics
+Dengue, paracetamol, intravenous_immunoglobulin, corticosteroids, fluids, analgesics, antivirals
+Dengue, fluids, analgesics, paracetamol, ibuprofen, intravenous_immunoglobulin, corticosteroids
+Dengue, intravenous_immunoglobulin, analgesics, fluids, paracetamol, corticosteroids, antivirals
+Typhoid, Ciprofloxacin, Azithromycin, Ceftriaxone, Ampicillin, Chloramphenicol, Metronidazole
+Typhoid, Azithromycin, Ciprofloxacin, Ampicillin, Ceftriaxone, Chloramphenicol, Metronidazole
+Typhoid, Ceftriaxone, Ampicillin, Ciprofloxacin, Chloramphenicol, Azithromycin, Metronidazole
+Typhoid, Ampicillin, Chloramphenicol, Azithromycin, Ceftriaxone, Ciprofloxacin, Metronidazole
+Typhoid, Chloramphenicol, Metronidazole, Ciprofloxacin, Azithromycin, Ceftriaxone, Ampicillin
+Typhoid, Metronidazole, Ceftriaxone, Ampicillin, Chloramphenicol, Azithromycin, Ciprofloxacin
+Typhoid, Ciprofloxacin, Ceftriaxone, Metronidazole, Azithromycin, Chloramphenicol, Ampicillin
+Typhoid, Azithromycin, Chloramphenicol, Ciprofloxacin, Metronidazole, Ampicillin, Ceftriaxone
+Typhoid, Ceftriaxone, Azithromycin, Metronidazole, Ampicillin, Ciprofloxacin, Chloramphenicol
+Typhoid, Ampicillin, Ciprofloxacin, Chloramphenicol, Metronidazole, Ceftriaxone, Azithromycin
+Typhoid, Chloramphenicol, Azithromycin, Metronidazole, Ciprofloxacin, Ampicillin, Ceftriaxone
+Typhoid, Metronidazole, Ciprofloxacin, Chloramphenicol, Azithromycin, Ampicillin, Ceftriaxone
+Typhoid, Azithromycin, Ceftriaxone, Chloramphenicol, Ciprofloxacin, Metronidazole, Ampicillin
+Typhoid, Ceftriaxone, Metronidazole, Azithromycin, Chloramphenicol, Ampicillin, Ciprofloxacin
+Typhoid, Ampicillin, Metronidazole, Chloramphenicol, Azithromycin, Ceftriaxone, Ciprofloxacin
+Typhoid, Chloramphenicol, Ciprofloxacin, Metronidazole, Ampicillin, Azithromycin, Ceftriaxone
+Typhoid, Metronidazole, Azithromycin, Ceftriaxone, Ciprofloxacin, Chloramphenicol, Ampicillin
+Typhoid, Ciprofloxacin, Ampicillin, Chloramphenicol, Metronidazole, Azithromycin, Ceftriaxone
+Typhoid, Azithromycin, Metronidazole, Ampicillin, Ceftriaxone, Chloramphenicol, Ciprofloxacin
+Typhoid, Ceftriaxone, Ampicillin, Metronidazole, Azithromycin, Ciprofloxacin, Chloramphenicol
+Typhoid, Ampicillin, Ciprofloxacin, Azithromycin, Metronidazole, Ceftriaxone, Chloramphenicol
+hepatitis A, analgesics, antivirals, vaccines, fluids, immune_globulin, nutritional_support
+hepatitis A, antivirals, vaccines, analgesics, fluids, immune_globulin, nutritional_support
+hepatitis A, immune_globulin, fluids, vaccines, antivirals, nutritional_support, analgesics
+hepatitis A, hepatitis_A_vaccine, paracetamol, immune_globulin, fluids, nutritional_support, antivirals
+hepatitis A, immune_globulin, hepatitis_A_vaccine, fluids, paracetamol, antivirals, nutritional_support
+hepatitis A, fluids, analgesics, immune_globulin, hepatitis_A_vaccine, nutritional_support, antivirals
+hepatitis A, antivirals, fluids, paracetamol, immune_globulin, vaccines, nutritional_support
+hepatitis A, nutritional_support, immune_globulin, hepatitis_A_vaccine, fluids, antivirals, analgesics
+hepatitis A, immune_globulin, vaccines, fluids, analgesics, nutritional_support, antivirals
+hepatitis A, hepatitis_A_vaccine, nutritional_support, immune_globulin, fluids, antivirals, paracetamol
+hepatitis A, antivirals, immune_globulin, nutritional_support, fluids, paracetamol, hepatitis_A_vaccine
+hepatitis A, fluids, nutritional_support, antivirals, immune_globulin, paracetamol, hepatitis_A_vaccine
+hepatitis A, paracetamol, fluids, immune_globulin, vaccines, nutritional_support, antivirals
+hepatitis A, immune_globulin, antivirals, nutritional_support, hepatitis_A_vaccine, fluids, paracetamol
+hepatitis A, vaccines, immune_globulin, fluids, paracetamol, nutritional_support, antivirals
+hepatitis A, nutritional_support, fluids, immune_globulin, antivirals, hepatitis_A_vaccine, paracetamol
+hepatitis A, hepatitis_A_vaccine, fluids, immune_globulin, nutritional_support, antivirals, paracetamol
+hepatitis A, fluids, immune_globulin, paracetamol, nutritional_support, hepatitis_A_vaccine, antivirals
+hepatitis A, nutritional_support, antivirals, fluids, immune_globulin, hepatitis_A_vaccine, paracetamol
+hepatitis A, immune_globulin, nutritional_support, paracetamol, hepatitis_A_vaccine, antivirals, fluids
+Hepatitis B, antivirals, vaccines, immune_globulin, pegylated_interferon, nucleoside_analogues, nutritional_support
+Hepatitis B, vaccines, antivirals, immune_globulin, pegylated_interferon, nucleoside_analogues, nutritional_support
+Hepatitis B, immune_globulin, antivirals, pegylated_interferon, nutritional_support, vaccines, nucleoside_analogues
+Hepatitis B, hepatitis_B_vaccine, entecavir, immune_globulin, pegylated_interferon, nutritional_support, tenofovir
+Hepatitis B, immune_globulin, hepatitis_B_vaccine, entecavir, nutritional_support, pegylated_interferon, tenofovir
+Hepatitis B, nutritional_support, entecavir, immune_globulin, hepatitis_B_vaccine, pegylated_interferon, antivirals
+Hepatitis B, antivirals, entecavir, immune_globulin, pegylated_interferon, vaccines, nutritional_support
+Hepatitis B, nucleoside_analogues, immune_globulin, nutritional_support, pegylated_interferon, entecavir, hepatitis_B_vaccine
+Hepatitis B, immune_globulin, pegylated_interferon, nutritional_support, antivirals, entecavir, hepatitis_B_vaccine
+Hepatitis B, nucleoside_analogues, nutritional_support, immune_globulin, hepatitis_B_vaccine, antivirals, entecavir
+Hepatitis B, entecavir, immune_globulin, nutritional_support, pegylated_interferon, antivirals, hepatitis_B_vaccine
+Hepatitis B, nutritional_support, pegylated_interferon, immune_globulin, entecavir, hepatitis_B_vaccine, antivirals
+Hepatitis B, pegylated_interferon, antivirals, nutritional_support, immune_globulin, entecavir, hepatitis_B_vaccine
+Hepatitis B, hepatitis_B_vaccine, entecavir, immune_globulin, nutritional_support, pegylated_interferon, antivirals
+Hepatitis B, immune_globulin, pegylated_interferon, nutritional_support, antivirals, nucleoside_analogues, hepatitis_B_vaccine
+Hepatitis B, pegylated_interferon, entecavir, nutritional_support, immune_globulin, antivirals, hepatitis_B_vaccine
+Hepatitis B, antiviral_agents, nutritional_support, immune_globulin, pegylated_interferon, entecavir, hepatitis_B_vaccine
+Hepatitis B, nucleoside_analogues, immune_globulin, nutritional_support, entecavir, pegylated_interferon, hepatitis_B_vaccine
+Hepatitis B, nutritional_support, antivirals, pegylated_interferon, immune_globulin, hepatitis_B_vaccine, entecavir
+Hepatitis C, antivirals, pegylated_interferon, ribavirin, direct_acting_antivirals, nutritional_support, immune_globulin
+Hepatitis C, pegylated_interferon, antivirals, ribavirin, direct_acting_antivirals, nutritional_support, immune_globulin
+Hepatitis C, immune_globulin, antivirals, ribavirin, pegylated_interferon, nutritional_support, direct_acting_antivirals
+Hepatitis C, hepatitis_C_vaccine, sofosbuvir, immune_globulin, ribavirin, nutritional_support, ledipasvir
+Hepatitis C, immune_globulin, hepatitis_C_vaccine, sofosbuvir, nutritional_support, ribavirin, ledipasvir
+Hepatitis C, nutritional_support, sofosbuvir, immune_globulin, hepatitis_C_vaccine, ribavirin, antivirals
+Hepatitis C, antivirals, sofosbuvir, immune_globulin, ribavirin, pegylated_interferon, nutritional_support
+Hepatitis C, direct_acting_antivirals, immune_globulin, nutritional_support, ribavirin, sofosbuvir, hepatitis_C_vaccine
+Hepatitis C, immune_globulin, pegylated_interferon, nutritional_support, antivirals, sofosbuvir, hepatitis_C_vaccine
+Hepatitis C, direct_acting_antivirals, nutritional_support, immune_globulin, hepatitis_C_vaccine, antivirals, ribavirin
+Hepatitis C, sofosbuvir, immune_globulin, nutritional_support, pegylated_interferon, antivirals, hepatitis_C_vaccine
+Hepatitis C, nutritional_support, pegylated_interferon, immune_globulin, sofosbuvir, hepatitis_C_vaccine, antivirals
+Hepatitis C, pegylated_interferon, antivirals, nutritional_support, immune_globulin, sofosbuvir, hepatitis_C_vaccine
+Hepatitis C, hepatitis_C_vaccine, sofosbuvir, immune_globulin, nutritional_support, pegylated_interferon, antivirals
+Hepatitis C, immune_globulin, pegylated_interferon, nutritional_support, antivirals, direct_acting_antivirals, hepatitis_C_vaccine
+Hepatitis C, pegylated_interferon, sofosbuvir, nutritional_support, immune_globulin, antivirals, hepatitis_C_vaccine
+Hepatitis C, direct_acting_antivirals, nutritional_support, immune_globulin, pegylated_interferon, sofosbuvir, hepatitis_C_vaccine
+Hepatitis C, nutritional_support, antivirals, pegylated_interferon, immune_globulin, hepatitis_C_vaccine, sofosbuvir
+Hepatitis C, immune_globulin, nutritional_support, pegylated_interferon, antivirals, sofosbuvir, hepatitis_C_vaccine
+Hepatitis D, Interferon, Ribavirin, Tenofovir, Adefovir, Entecavir, Lamivudine
+Hepatitis D, Ribavirin, Interferon, Tenofovir, Lamivudine, Adefovir, Entecavir
+Hepatitis D, Tenofovir, Adefovir, Interferon, Lamivudine, Ribavirin, Entecavir
+Hepatitis D, Adefovir, Interferon, Lamivudine, Tenofovir, Ribavirin, Entecavir
+Hepatitis D, Entecavir, Tenofovir, Ribavirin, Interferon, Adefovir, Lamivudine
+Hepatitis D, Lamivudine, Tenofovir, Adefovir, Ribavirin, Interferon, Entecavir
+Hepatitis D, Interferon, Tenofovir, Adefovir, Lamivudine, Entecavir, Ribavirin
+Hepatitis D, Ribavirin, Adefovir, Interferon, Lamivudine, Tenofovir, Entecavir
+Hepatitis D, Tenofovir, Ribavirin, Interferon, Adefovir, Lamivudine, Entecavir
+Hepatitis D, Adefovir, Lamivudine, Interferon, Ribavirin, Tenofovir, Entecavir
+Hepatitis D, Entecavir, Ribavirin, Lamivudine, Interferon, Adefovir, Tenofovir
+Hepatitis D, Lamivudine, Interferon, Tenofovir, Adefovir, Ribavirin, Entecavir
+Hepatitis D, Tenofovir, Entecavir, Ribavirin, Adefovir, Interferon, Lamivudine
+Hepatitis D, Interferon, Lamivudine, Adefovir, Ribavirin, Tenofovir, Entecavir
+Hepatitis D, Adefovir, Interferon, Tenofovir, Lamivudine, Ribavirin, Entecavir
+Hepatitis D, Ribavirin, Tenofovir, Entecavir, Adefovir, Lamivudine, Interferon
+Hepatitis D, Entecavir, Tenofovir, Ribavirin, Interferon, Lamivudine, Adefovir
+Hepatitis D, Lamivudine, Adefovir, Ribavirin, Tenofovir, Interferon, Entecavir
+Hepatitis D, Adefovir, Ribavirin, Interferon, Entecavir, Tenofovir, Lamivudine
+Hepatitis D, Interferon, Adefovir, Lamivudine, Ribavirin, Entecavir, Tenofovir
+Hepatitis E, antivirals, supportive_care, immune_globulin, ribavirin, nutritional_support, hydration
+Hepatitis E, supportive_care, antivirals, immune_globulin, ribavirin, nutritional_support, hydration
+Hepatitis E, immune_globulin, antivirals, ribavirin, supportive_care, nutritional_support, hydration
+Hepatitis E, hepatitis_E_vaccine, ribavirin, immune_globulin, supportive_care, nutritional_support, hydration
+Hepatitis E, immune_globulin, hepatitis_E_vaccine, ribavirin, nutritional_support, supportive_care, hydration
+Hepatitis E, nutritional_support, ribavirin, immune_globulin, hepatitis_E_vaccine, supportive_care, hydration
+Hepatitis E, antivirals, ribavirin, immune_globulin, supportive_care, nutritional_support, hydration
+Hepatitis E, hydration, immune_globulin, nutritional_support, ribavirin, supportive_care, hepatitis_E_vaccine
+Hepatitis E, immune_globulin, supportive_care, nutritional_support, antivirals, ribavirin, hepatitis_E_vaccine
+Hepatitis E, ribavirin, nutritional_support, immune_globulin, supportive_care, hepatitis_E_vaccine, antivirals
+Hepatitis E, nutritional_support, supportive_care, immune_globulin, ribavirin, hepatitis_E_vaccine, antivirals
+Hepatitis E, supportive_care, ribavirin, immune_globulin, nutritional_support, hepatitis_E_vaccine, antivirals
+Hepatitis E, hepatitis_E_vaccine, ribavirin, nutritional_support, immune_globulin, supportive_care, antivirals
+Hepatitis E, immune_globulin, supportive_care, nutritional_support, antivirals, ribavirin, hepatitis_E_vaccine
+Hepatitis E, supportive_care, ribavirin, nutritional_support, immune_globulin, hepatitis_E_vaccine, antivirals
+Hepatitis E, nutritional_support, immune_globulin, supportive_care, antivirals, ribavirin, hepatitis_E_vaccine
+Hepatitis E, hydration, immune_globulin, supportive_care, ribavirin, nutritional_support, hepatitis_E_vaccine
+Hepatitis E, nutritional_support, antivirals, supportive_care, immune_globulin, hepatitis_E_vaccine, ribavirin
+Hepatitis E, immune_globulin, nutritional_support, ribavirin, supportive_care, hepatitis_E_vaccine, antivirals
+Alcoholic hepatitis, Corticosteroids, Pentoxifylline, Nutritional support, Thiamine, Folic acid, B vitamins
+Alcoholic hepatitis, Pentoxifylline, Corticosteroids, Thiamine, Folic acid, B vitamins, Nutritional support
+Alcoholic hepatitis, Thiamine, Corticosteroids, Pentoxifylline, B vitamins, Nutritional support, Folic acid
+Alcoholic hepatitis, Folic acid, Nutritional support, Pentoxifylline, Thiamine, Corticosteroids, B vitamins
+Alcoholic hepatitis, B vitamins, Corticosteroids, Thiamine, Pentoxifylline, Folic acid, Nutritional support
+Alcoholic hepatitis, Nutritional support, Folic acid, B vitamins, Corticosteroids, Thiamine, Pentoxifylline
+Alcoholic hepatitis, Corticosteroids, Nutritional support, B vitamins, Pentoxifylline, Folic acid, Thiamine
+Alcoholic hepatitis, Pentoxifylline, Thiamine, Nutritional support, B vitamins, Corticosteroids, Folic acid
+Alcoholic hepatitis, Thiamine, Nutritional support, B vitamins, Folic acid, Pentoxifylline, Corticosteroids
+Alcoholic hepatitis, Folic acid, B vitamins, Corticosteroids, Thiamine, Nutritional support, Pentoxifylline
+Alcoholic hepatitis, B vitamins, Nutritional support, Thiamine, Pentoxifylline, Corticosteroids, Folic acid
+Alcoholic hepatitis, Nutritional support, Corticosteroids, B vitamins, Thiamine, Folic acid, Pentoxifylline
+Alcoholic hepatitis, Pentoxifylline, Folic acid, Nutritional support, Corticosteroids, Thiamine, B vitamins
+Alcoholic hepatitis, Thiamine, Corticosteroids, Nutritional support, Pentoxifylline, B vitamins, Folic acid
+Alcoholic hepatitis, Folic acid, Thiamine, Corticosteroids, Pentoxifylline, Nutritional support, B vitamins
+Alcoholic hepatitis, Corticosteroids, B vitamins, Folic acid, Thiamine, Pentoxifylline, Nutritional support
+Alcoholic hepatitis, Pentoxifylline, B vitamins, Thiamine, Nutritional support, Folic acid, Corticosteroids
+Alcoholic hepatitis, Thiamine, Pentoxifylline, Nutritional support, B vitamins, Folic acid, Corticosteroids
+Alcoholic hepatitis, Folic acid, Thiamine, Nutritional support, Corticosteroids, Pentoxifylline, B vitamins
+Alcoholic hepatitis, Nutritional support, Pentoxifylline, Folic acid, B vitamins, Corticosteroids, Thiamine
+Tuberculosis, rifampicin, isoniazid, pyrazinamide, ethambutol, vitamin_B6, supportive_care
+Tuberculosis, isoniazid, rifampicin, ethambutol, pyrazinamide, vitamin_B6, supportive_care
+Tuberculosis, ethambutol, rifampicin, isoniazid, pyrazinamide, supportive_care, vitamin_B6
+Tuberculosis, rifampicin, isoniazid, vitamin_B6, pyrazinamide, supportive_care, ethambutol
+Tuberculosis, vitamin_B6, rifampicin, isoniazid, ethambutol, supportive_care, pyrazinamide
+Tuberculosis, supportive_care, isoniazid, pyrazinamide, vitamin_B6, ethambutol, rifampicin
+Tuberculosis, pyrazinamide, rifampicin, supportive_care, isoniazid, vitamin_B6, ethambutol
+Tuberculosis, ethambutol, vitamin_B6, supportive_care, rifampicin, isoniazid, pyrazinamide
+Tuberculosis, supportive_care, ethambutol, pyrazinamide, rifampicin, vitamin_B6, isoniazid
+Tuberculosis, rifampicin, supportive_care, vitamin_B6, isoniazid, ethambutol, pyrazinamide
+Tuberculosis, isoniazid, ethambutol, supportive_care, rifampicin, pyrazinamide, vitamin_B6
+Tuberculosis, pyrazinamide, supportive_care, vitamin_B6, rifampicin, ethambutol, isoniazid
+Tuberculosis, vitamin_B6, ethambutol, supportive_care, isoniazid, pyrazinamide, rifampicin
+Tuberculosis, supportive_care, rifampicin, vitamin_B6, isoniazid, ethambutol, pyrazinamide
+Tuberculosis, pyrazinamide, supportive_care, rifampicin, vitamin_B6, isoniazid, ethambutol
+Tuberculosis, ethambutol, isoniazid, supportive_care, pyrazinamide, rifampicin, vitamin_B6
+Tuberculosis, vitamin_B6, rifampicin, ethambutol, isoniazid, supportive_care, pyrazinamide
+Tuberculosis, supportive_care, pyrazinamide, vitamin_B6, rifampicin, isoniazid, ethambutol
+Tuberculosis, isoniazid, vitamin_B6, supportive_care, ethambutol, rifampicin, pyrazinamide
+Common Cold, Acetaminophen, Ibuprofen, Antihistamines, Decongestants, Cough suppressants, Vitamin C
+Common Cold, Ibuprofen, Acetaminophen, Decongestants, Antihistamines, Cough suppressants, Zinc
+Common Cold, Antihistamines, Vitamin C, Cough suppressants, Decongestants, Ibuprofen, Acetaminophen
+Common Cold, Decongestants, Cough suppressants, Antihistamines, Zinc, Acetaminophen, Ibuprofen
+Common Cold, Cough suppressants, Vitamin C, Ibuprofen, Antihistamines, Decongestants, Acetaminophen
+Common Cold, Vitamin C, Antihistamines, Decongestants, Cough suppressants, Ibuprofen, Zinc
+Common Cold, Antihistamines, Acetaminophen, Cough suppressants, Zinc, Ibuprofen, Decongestants
+Common Cold, Ibuprofen, Cough suppressants, Decongestants, Antihistamines, Acetaminophen, Vitamin C
+Common Cold, Decongestants, Antihistamines, Zinc, Acetaminophen, Ibuprofen, Cough suppressants
+Common Cold, Cough suppressants, Vitamin C, Antihistamines, Ibuprofen, Decongestants, Zinc
+Common Cold, Zinc, Acetaminophen, Cough suppressants, Ibuprofen, Antihistamines, Decongestants
+Common Cold, Acetaminophen, Antihistamines, Zinc, Cough suppressants, Decongestants, Ibuprofen
+Common Cold, Ibuprofen, Zinc, Decongestants, Antihistamines, Acetaminophen, Cough suppressants
+Common Cold, Cough suppressants, Acetaminophen, Antihistamines, Vitamin C, Decongestants, Ibuprofen
+Common Cold, Vitamin C, Acetaminophen, Cough suppressants, Antihistamines, Zinc, Ibuprofen
+Common Cold, Antihistamines, Decongestants, Cough suppressants, Acetaminophen, Zinc, Vitamin C
+Common Cold, Zinc, Cough suppressants, Decongestants, Ibuprofen, Antihistamines, Acetaminophen
+Common Cold, Acetaminophen, Ibuprofen, Antihistamines, Cough suppressants, Decongestants, Vitamin C
+Common Cold, Decongestants, Vitamin C, Antihistamines, Ibuprofen, Cough suppressants, Zinc
+Common Cold, Cough suppressants, Antihistamines, Zinc, Decongestants, Vitamin C, Acetaminophen
+Pneumonia, amoxicillin, azithromycin, ceftriaxone, doxycycline, supportive_care, corticosteroids
+Pneumonia, azithromycin, amoxicillin, doxycycline, ceftriaxone, supportive_care, corticosteroids
+Pneumonia, ceftriaxone, amoxicillin, azithromycin, doxycycline, supportive_care, corticosteroids
+Pneumonia, amoxicillin, ceftriaxone, supportive_care, azithromycin, corticosteroids, doxycycline
+Pneumonia, supportive_care, azithromycin, ceftriaxone, amoxicillin, doxycycline, corticosteroids
+Pneumonia, doxycycline, supportive_care, amoxicillin, ceftriaxone, azithromycin, corticosteroids
+Pneumonia, ceftriaxone, supportive_care, doxycycline, amoxicillin, azithromycin, corticosteroids
+Pneumonia, supportive_care, amoxicillin, azithromycin, doxycycline, ceftriaxone, corticosteroids
+Pneumonia, corticosteroids, azithromycin, amoxicillin, ceftriaxone, supportive_care, doxycycline
+Pneumonia, doxycycline, ceftriaxone, supportive_care, azithromycin, amoxicillin, corticosteroids
+Pneumonia, amoxicillin, supportive_care, doxycycline, azithromycin, ceftriaxone, corticosteroids
+Pneumonia, ceftriaxone, supportive_care, amoxicillin, doxycycline, azithromycin, corticosteroids
+Pneumonia, supportive_care, doxycycline, azithromycin, ceftriaxone, amoxicillin, corticosteroids
+Pneumonia, azithromycin, supportive_care, ceftriaxone, amoxicillin, doxycycline, corticosteroids
+Pneumonia, amoxicillin, doxycycline, supportive_care, ceftriaxone, corticosteroids, azithromycin
+Pneumonia, corticosteroids, amoxicillin, supportive_care, azithromycin, doxycycline, ceftriaxone
+Pneumonia, supportive_care, ceftriaxone, amoxicillin, azithromycin, doxycycline, corticosteroids
+Pneumonia, doxycycline, amoxicillin, supportive_care, ceftriaxone, azithromycin, corticosteroids
+Pneumonia, ceftriaxone, azithromycin, supportive_care, doxycycline, amoxicillin, corticosteroids
+Dimorphic hemorrhoids(piles), Topical anesthetics, Fiber supplements, Stool softeners, Laxatives, Anti-inflammatory creams, Pain relievers
+Dimorphic hemorrhoids(piles), Fiber supplements, Topical anesthetics, Laxatives, Pain relievers, Anti-inflammatory creams, Witch hazel
+Dimorphic hemorrhoids(piles), Stool softeners, Laxatives, Topical anesthetics, Anti-inflammatory creams, Pain relievers, Fiber supplements
+Dimorphic hemorrhoids(piles), Anti-inflammatory creams, Pain relievers, Fiber supplements, Witch hazel, Stool softeners, Laxatives
+Dimorphic hemorrhoids(piles), Pain relievers, Laxatives, Fiber supplements, Topical anesthetics, Anti-inflammatory creams, Stool softeners
+Dimorphic hemorrhoids(piles), Laxatives, Anti-inflammatory creams, Pain relievers, Fiber supplements, Topical anesthetics, Witch hazel
+Dimorphic hemorrhoids(piles), Topical anesthetics, Fiber supplements, Anti-inflammatory creams, Laxatives, Pain relievers, Stool softeners
+Dimorphic hemorrhoids(piles), Witch hazel, Pain relievers, Fiber supplements, Anti-inflammatory creams, Stool softeners, Laxatives
+Dimorphic hemorrhoids(piles), Fiber supplements, Pain relievers, Laxatives, Anti-inflammatory creams, Stool softeners, Topical anesthetics
+Dimorphic hemorrhoids(piles), Anti-inflammatory creams, Stool softeners, Pain relievers, Topical anesthetics, Fiber supplements, Laxatives
+Dimorphic hemorrhoids(piles), Stool softeners, Topical anesthetics, Laxatives, Anti-inflammatory creams, Fiber supplements, Pain relievers
+Dimorphic hemorrhoids(piles), Laxatives, Pain relievers, Anti-inflammatory creams, Fiber supplements, Witch hazel, Stool softeners
+Dimorphic hemorrhoids(piles), Topical anesthetics, Pain relievers, Fiber supplements, Laxatives, Witch hazel, Anti-inflammatory creams
+Dimorphic hemorrhoids(piles), Anti-inflammatory creams, Fiber supplements, Pain relievers, Laxatives, Topical anesthetics, Stool softeners
+Dimorphic hemorrhoids(piles), Laxatives, Anti-inflammatory creams, Stool softeners, Pain relievers, Fiber supplements, Witch hazel
+Dimorphic hemorrhoids(piles), Pain relievers, Topical anesthetics, Anti-inflammatory creams, Laxatives, Fiber supplements, Witch hazel
+Dimorphic hemorrhoids(piles), Stool softeners, Witch hazel, Laxatives, Anti-inflammatory creams, Pain relievers, Fiber supplements
+Dimorphic hemorrhoids(piles), Topical anesthetics, Anti-inflammatory creams, Laxatives, Stool softeners, Pain relievers, Fiber supplements
+Dimorphic hemorrhoids(piles), Fiber supplements, Laxatives, Witch hazel, Topical anesthetics, Pain relievers, Anti-inflammatory creams
+Dimorphic hemorrhoids(piles), Laxatives, Pain relievers, Fiber supplements, Anti-inflammatory creams, Topical anesthetics, Witch hazel
+Heart attack, aspirin, nitroglycerin, beta_blockers, ACE_inhibitors, statins, anticoagulants
+Heart attack, nitroglycerin, aspirin, beta_blockers, ACE_inhibitors, statins, anticoagulants
+Heart attack, beta_blockers, aspirin, nitroglycerin, ACE_inhibitors, anticoagulants, statins
+Heart attack, aspirin, beta_blockers, anticoagulants, nitroglycerin, ACE_inhibitors, statins
+Heart attack, anticoagulants, nitroglycerin, beta_blockers, aspirin, statins, ACE_inhibitors
+Heart attack, ACE_inhibitors, aspirin, anticoagulants, nitroglycerin, beta_blockers, statins
+Heart attack, statins, nitroglycerin, aspirin, beta_blockers, anticoagulants, ACE_inhibitors
+Heart attack, beta_blockers, ACE_inhibitors, aspirin, anticoagulants, statins, nitroglycerin
+Heart attack, anticoagulants, aspirin, nitroglycerin, beta_blockers, ACE_inhibitors, statins
+Heart attack, statins, aspirin, beta_blockers, nitroglycerin, ACE_inhibitors, anticoagulants
+Heart attack, nitroglycerin, statins, anticoagulants, beta_blockers, aspirin, ACE_inhibitors
+Heart attack, aspirin, statins, beta_blockers, nitroglycerin, ACE_inhibitors, anticoagulants
+Heart attack, ACE_inhibitors, beta_blockers, aspirin, nitroglycerin, anticoagulants, statins
+Heart attack, beta_blockers, anticoagulants, aspirin, ACE_inhibitors, nitroglycerin, statins
+Heart attack, nitroglycerin, aspirin, ACE_inhibitors, statins, beta_blockers, anticoagulants
+Heart attack, statins, beta_blockers, nitroglycerin, anticoagulants, aspirin, ACE_inhibitors
+Heart attack, anticoagulants, nitroglycerin, statins, beta_blockers, aspirin, ACE_inhibitors
+Heart attack, aspirin, ACE_inhibitors, nitroglycerin, statins, anticoagulants, beta_blockers
+Heart attack, ACE_inhibitors, nitroglycerin, statins, aspirin, beta_blockers, anticoagulants
+Varicose veins, compression_stockings, diosmin, horse_chestnut_extract, nonsteroidal_anti-inflammatory_drugs, sclerotherapy, laser_therapy
+Varicose veins, diosmin, compression_stockings, sclerotherapy, horse_chestnut_extract, nonsteroidal_anti-inflammatory_drugs, laser_therapy
+Varicose veins, sclerotherapy, diosmin, compression_stockings, horse_chestnut_extract, laser_therapy, nonsteroidal_anti-inflammatory_drugs
+Varicose veins, compression_stockings, sclerotherapy, horse_chestnut_extract, diosmin, nonsteroidal_anti-inflammatory_drugs, laser_therapy
+Varicose veins, laser_therapy, diosmin, nonsteroidal_anti-inflammatory_drugs, compression_stockings, horse_chestnut_extract, sclerotherapy
+Varicose veins, nonsteroidal_anti-inflammatory_drugs, compression_stockings, laser_therapy, diosmin, sclerotherapy, horse_chestnut_extract
+Varicose veins, horse_chestnut_extract, laser_therapy, diosmin, compression_stockings, nonsteroidal_anti-inflammatory_drugs, sclerotherapy
+Varicose veins, compression_stockings, diosmin, laser_therapy, horse_chestnut_extract, nonsteroidal_anti-inflammatory_drugs, sclerotherapy
+Varicose veins, sclerotherapy, nonsteroidal_anti-inflammatory_drugs, diosmin, horse_chestnut_extract, compression_stockings, laser_therapy
+Varicose veins, diosmin, compression_stockings, sclerotherapy, nonsteroidal_anti-inflammatory_drugs, horse_chestnut_extract, laser_therapy
+Varicose veins, nonsteroidal_anti-inflammatory_drugs, sclerotherapy, horse_chestnut_extract, laser_therapy, diosmin, compression_stockings
+Varicose veins, laser_therapy, diosmin, horse_chestnut_extract, sclerotherapy, nonsteroidal_anti-inflammatory_drugs, compression_stockings
+Varicose veins, horse_chestnut_extract, compression_stockings, nonsteroidal_anti-inflammatory_drugs, diosmin, sclerotherapy, laser_therapy
+Varicose veins, sclerotherapy, compression_stockings, laser_therapy, horse_chestnut_extract, diosmin, nonsteroidal_anti-inflammatory_drugs
+Varicose veins, diosmin, horse_chestnut_extract, compression_stockings, nonsteroidal_anti-inflammatory_drugs, laser_therapy, sclerotherapy
+Varicose veins, nonsteroidal_anti-inflammatory_drugs, sclerotherapy, diosmin, compression_stockings, laser_therapy, horse_chestnut_extract
+Varicose veins, compression_stockings, sclerotherapy, diosmin, horse_chestnut_extract, nonsteroidal_anti-inflammatory_drugs, laser_therapy
+Varicose veins, horse_chestnut_extract, diosmin, compression_stockings, laser_therapy, sclerotherapy, nonsteroidal_anti-inflammatory_drugs
+Hypothyroidism, levothyroxine, liothyronine, iodine_supplements, thyroid_extracts, calcium_supplements, vitamin_D
+Hypothyroidism, liothyronine, levothyroxine, iodine_supplements, calcium_supplements, vitamin_D, thyroid_extracts
+Hypothyroidism, iodine_supplements, levothyroxine, thyroid_extracts, liothyronine, calcium_supplements, vitamin_D
+Hypothyroidism, levothyroxine, calcium_supplements, iodine_supplements, vitamin_D, liothyronine, thyroid_extracts
+Hypothyroidism, calcium_supplements, levothyroxine, vitamin_D, iodine_supplements, thyroid_extracts, liothyronine
+Hypothyroidism, vitamin_D, iodine_supplements, levothyroxine, liothyronine, calcium_supplements, thyroid_extracts
+Hypothyroidism, thyroid_extracts, calcium_supplements, levothyroxine, iodine_supplements, liothyronine, vitamin_D
+Hypothyroidism, iodine_supplements, vitamin_D, levothyroxine, calcium_supplements, thyroid_extracts, liothyronine
+Hypothyroidism, liothyronine, thyroid_extracts, vitamin_D, levothyroxine, iodine_supplements, calcium_supplements
+Hypothyroidism, calcium_supplements, vitamin_D, levothyroxine, iodine_supplements, liothyronine, thyroid_extracts
+Hypothyroidism, vitamin_D, thyroid_extracts, iodine_supplements, levothyroxine, calcium_supplements, liothyronine
+Hypothyroidism, thyroid_extracts, levothyroxine, vitamin_D, iodine_supplements, calcium_supplements, liothyronine
+Hypothyroidism, iodine_supplements, calcium_supplements, levothyroxine, liothyronine, vitamin_D, thyroid_extracts
+Hypothyroidism, levothyroxine, thyroid_extracts, vitamin_D, calcium_supplements, liothyronine, iodine_supplements
+Hypothyroidism, calcium_supplements, liothyronine, vitamin_D, levothyroxine, thyroid_extracts, iodine_supplements
+Hypothyroidism, thyroid_extracts, iodine_supplements, levothyroxine, calcium_supplements, liothyronine, vitamin_D
+Hypothyroidism, vitamin_D, levothyroxine, calcium_supplements, liothyronine, thyroid_extracts, iodine_supplements
+Hypothyroidism, iodine_supplements, thyroid_extracts, liothyronine, vitamin_D, levothyroxine, calcium_supplements
+Hypothyroidism, liothyronine, vitamin_D, iodine_supplements, levothyroxine, calcium_supplements, thyroid_extracts
+Hyperthyroidism, Methimazole, Propylthiouracil, Beta-blockers, Iodine solutions, Radioactive iodine, Antithyroid drugs
+Hyperthyroidism, Propylthiouracil, Methimazole, Beta-blockers, Radioactive iodine, Iodine solutions, Antithyroid drugs
+Hyperthyroidism, Beta-blockers, Methimazole, Radioactive iodine, Propylthiouracil, Antithyroid drugs, Iodine solutions
+Hyperthyroidism, Iodine solutions, Antithyroid drugs, Propylthiouracil, Methimazole, Beta-blockers, Radioactive iodine
+Hyperthyroidism, Antithyroid drugs, Radioactive iodine, Beta-blockers, Methimazole, Iodine solutions, Propylthiouracil
+Hyperthyroidism, Radioactive iodine, Beta-blockers, Antithyroid drugs, Methimazole, Propylthiouracil, Iodine solutions
+Hyperthyroidism, Methimazole, Antithyroid drugs, Radioactive iodine, Beta-blockers, Iodine solutions, Propylthiouracil
+Hyperthyroidism, Beta-blockers, Propylthiouracil, Methimazole, Iodine solutions, Antithyroid drugs, Radioactive iodine
+Hyperthyroidism, Iodine solutions, Methimazole, Radioactive iodine, Antithyroid drugs, Propylthiouracil, Beta-blockers
+Hyperthyroidism, Antithyroid drugs, Beta-blockers, Iodine solutions, Methimazole, Propylthiouracil, Radioactive iodine
+Hyperthyroidism, Propylthiouracil, Beta-blockers, Methimazole, Antithyroid drugs, Iodine solutions, Radioactive iodine
+Hyperthyroidism, Radioactive iodine, Antithyroid drugs, Methimazole, Propylthiouracil, Beta-blockers, Iodine solutions
+Hyperthyroidism, Methimazole, Iodine solutions, Beta-blockers, Antithyroid drugs, Propylthiouracil, Radioactive iodine
+Hyperthyroidism, Antithyroid drugs, Propylthiouracil, Radioactive iodine, Methimazole, Iodine solutions, Beta-blockers
+Hyperthyroidism, Iodine solutions, Propylthiouracil, Antithyroid drugs, Beta-blockers, Methimazole, Radioactive iodine
+Hyperthyroidism, Beta-blockers, Radioactive iodine, Antithyroid drugs, Propylthiouracil, Methimazole, Iodine solutions
+Hyperthyroidism, Propylthiouracil, Methimazole, Iodine solutions, Antithyroid drugs, Beta-blockers, Radioactive iodine
+Hyperthyroidism, Antithyroid drugs, Radioactive iodine, Methimazole, Beta-blockers, Propylthiouracil, Iodine solutions
+Hyperthyroidism, Iodine solutions, Beta-blockers, Antithyroid drugs, Propylthiouracil, Methimazole, Radioactive iodine
+Hypoglycemia, glucose_tabs, glucagon, dextrose_solution, carbohydrate_snacks, honey, fruit_juice
+Hypoglycemia, glucagon, glucose_tabs, honey, dextrose_solution, carbohydrate_snacks, fruit_juice
+Hypoglycemia, dextrose_solution, honey, glucose_tabs, carbohydrate_snacks, fruit_juice, glucagon
+Hypoglycemia, glucose_tabs, carbohydrate_snacks, fruit_juice, dextrose_solution, honey, glucagon
+Hypoglycemia, carbohydrate_snacks, glucose_tabs, honey, fruit_juice, glucagon, dextrose_solution
+Hypoglycemia, honey, fruit_juice, glucagon, glucose_tabs, dextrose_solution, carbohydrate_snacks
+Hypoglycemia, fruit_juice, dextrose_solution, honey, carbohydrate_snacks, glucagon, glucose_tabs
+Hypoglycemia, carbohydrate_snacks, honey, glucose_tabs, glucagon, dextrose_solution, fruit_juice
+Hypoglycemia, glucagon, fruit_juice, honey, glucose_tabs, carbohydrate_snacks, dextrose_solution
+Hypoglycemia, fruit_juice, glucose_tabs, dextrose_solution, glucagon, honey, carbohydrate_snacks
+Hypoglycemia, carbohydrate_snacks, honey, fruit_juice, glucagon, glucose_tabs, dextrose_solution
+Hypoglycemia, dextrose_solution, carbohydrate_snacks, honey, glucose_tabs, fruit_juice, glucagon
+Hypoglycemia, honey, glucagon, carbohydrate_snacks, dextrose_solution, fruit_juice, glucose_tabs
+Hypoglycemia, glucose_tabs, honey, fruit_juice, glucagon, carbohydrate_snacks, dextrose_solution
+Hypoglycemia, fruit_juice, glucose_tabs, glucagon, honey, carbohydrate_snacks, dextrose_solution
+Hypoglycemia, glucagon, carbohydrate_snacks, fruit_juice, honey, glucose_tabs, dextrose_solution
+Hypoglycemia, dextrose_solution, carbohydrate_snacks, glucagon, glucose_tabs, fruit_juice, honey
+Hypoglycemia, honey, dextrose_solution, carbohydrate_snacks, glucagon, glucose_tabs, fruit_juice
+Hypoglycemia, carbohydrate_snacks, glucagon, fruit_juice, glucose_tabs, honey, dextrose_solution
+Osteoarthritis, Nonsteroidal anti-inflammatory drugs, Acetaminophen, Topical analgesics, Corticosteroids, Hyaluronic acid injections, Physical therapy
+Osteoarthritis, Acetaminophen, Nonsteroidal anti-inflammatory drugs, Topical analgesics, Corticosteroids, Physical therapy, Glucosamine
+Osteoarthritis, Topical analgesics, Corticosteroids, Acetaminophen, Hyaluronic acid injections, Nonsteroidal anti-inflammatory drugs, Physical therapy
+Osteoarthritis, Corticosteroids, Physical therapy, Glucosamine, Acetaminophen, Nonsteroidal anti-inflammatory drugs, Topical analgesics
+Osteoarthritis, Physical therapy, Nonsteroidal anti-inflammatory drugs, Acetaminophen, Hyaluronic acid injections, Topical analgesics, Corticosteroids
+Osteoarthritis, Hyaluronic acid injections, Glucosamine, Acetaminophen, Topical analgesics, Nonsteroidal anti-inflammatory drugs, Corticosteroids
+Osteoarthritis, Glucosamine, Physical therapy, Corticosteroids, Nonsteroidal anti-inflammatory drugs, Acetaminophen, Topical analgesics
+Osteoarthritis, Nonsteroidal anti-inflammatory drugs, Hyaluronic acid injections, Acetaminophen, Topical analgesics, Physical therapy, Corticosteroids
+Osteoarthritis, Corticosteroids, Acetaminophen, Physical therapy, Topical analgesics, Nonsteroidal anti-inflammatory drugs, Glucosamine
+Osteoarthritis, Physical therapy, Acetaminophen, Glucosamine, Topical analgesics, Nonsteroidal anti-inflammatory drugs, Hyaluronic acid injections
+Osteoarthritis, Acetaminophen, Nonsteroidal anti-inflammatory drugs, Glucosamine, Topical analgesics, Hyaluronic acid injections, Corticosteroids
+Osteoarthritis, Nonsteroidal anti-inflammatory drugs, Glucosamine, Physical therapy, Corticosteroids, Topical analgesics, Hyaluronic acid injections
+Osteoarthritis, Hyaluronic acid injections, Acetaminophen, Nonsteroidal anti-inflammatory drugs, Physical therapy, Corticosteroids, Topical analgesics
+Osteoarthritis, Physical therapy, Corticosteroids, Acetaminophen, Glucosamine, Nonsteroidal anti-inflammatory drugs, Hyaluronic acid injections
+Osteoarthritis, Topical analgesics, Physical therapy, Corticosteroids, Acetaminophen, Hyaluronic acid injections, Nonsteroidal anti-inflammatory drugs
+Osteoarthritis, Acetaminophen, Hyaluronic acid injections, Topical analgesics, Physical therapy, Corticosteroids, Nonsteroidal anti-inflammatory drugs
+Osteoarthritis, Glucosamine, Acetaminophen, Corticosteroids, Nonsteroidal anti-inflammatory drugs, Physical therapy, Topical analgesics
+Osteoarthritis, Physical therapy, Nonsteroidal anti-inflammatory drugs, Hyaluronic acid injections, Acetaminophen, Topical analgesics, Corticosteroids
+Osteoarthritis, Corticosteroids, Glucosamine, Nonsteroidal anti-inflammatory drugs, Physical therapy, Acetaminophen, Topical analgesics
+Arthritis, Nonsteroidal anti-inflammatory drugs (NSAIDs), Corticosteroids, Disease-modifying antirheumatic drugs (DMARDs), Methotrexate, Biologics, Pain relievers
+Arthritis, Corticosteroids, Nonsteroidal anti-inflammatory drugs (NSAIDs), Biologics, Methotrexate, Pain relievers, Disease-modifying antirheumatic drugs (DMARDs)
+Arthritis, Disease-modifying antirheumatic drugs (DMARDs), Pain relievers, Nonsteroidal anti-inflammatory drugs (NSAIDs), Corticosteroids, Biologics, Methotrexate
+Arthritis, Pain relievers, Biologics, Nonsteroidal anti-inflammatory drugs (NSAIDs), Methotrexate, Corticosteroids, Disease-modifying antirheumatic drugs (DMARDs)
+Arthritis, Biologics, Pain relievers, Corticosteroids, Disease-modifying antirheumatic drugs (DMARDs), Methotrexate, Nonsteroidal anti-inflammatory drugs (NSAIDs)
+Arthritis, Methotrexate, Nonsteroidal anti-inflammatory drugs (NSAIDs), Biologics, Pain relievers, Corticosteroids, Disease-modifying antirheumatic drugs (DMARDs)
+Arthritis, Nonsteroidal anti-inflammatory drugs (NSAIDs), Methotrexate, Pain relievers, Biologics, Corticosteroids, Disease-modifying antirheumatic drugs (DMARDs)
+Arthritis, Pain relievers, Disease-modifying antirheumatic drugs (DMARDs), Nonsteroidal anti-inflammatory drugs (NSAIDs), Corticosteroids, Methotrexate, Biologics
+Arthritis, Corticosteroids, Disease-modifying antirheumatic drugs (DMARDs), Methotrexate, Pain relievers, Nonsteroidal anti-inflammatory drugs (NSAIDs), Biologics
+Arthritis, Biologics, Nonsteroidal anti-inflammatory drugs (NSAIDs), Corticosteroids, Pain relievers, Methotrexate, Disease-modifying antirheumatic drugs (DMARDs)
+Arthritis, Disease-modifying antirheumatic drugs (DMARDs), Corticosteroids, Nonsteroidal anti-inflammatory drugs (NSAIDs), Pain relievers, Biologics, Methotrexate
+Arthritis, Pain relievers, Biologics, Disease-modifying antirheumatic drugs (DMARDs), Nonsteroidal anti-inflammatory drugs (NSAIDs), Methotrexate, Corticosteroids
+Arthritis, Methotrexate, Pain relievers, Biologics, Disease-modifying antirheumatic drugs (DMARDs), Corticosteroids, Nonsteroidal anti-inflammatory drugs (NSAIDs)
+Arthritis, Nonsteroidal anti-inflammatory drugs (NSAIDs), Corticosteroids, Pain relievers, Biologics, Methotrexate, Disease-modifying antirheumatic drugs (DMARDs)
+Arthritis, Corticosteroids, Pain relievers, Nonsteroidal anti-inflammatory drugs (NSAIDs), Methotrexate, Biologics, Disease-modifying antirheumatic drugs (DMARDs)
+Arthritis, Biologics, Methotrexate, Pain relievers, Nonsteroidal anti-inflammatory drugs (NSAIDs), Disease-modifying antirheumatic drugs (DMARDs), Corticosteroids
+Arthritis, Disease-modifying antirheumatic drugs (DMARDs), Biologics, Pain relievers, Nonsteroidal anti-inflammatory drugs (NSAIDs), Methotrexate, Corticosteroids
+(vertigo) Paroxysmal  Positional Vertigo, Antihistamines, Meclizine, Dimenhydrinate, Benzodiazepines, Anticholinergics, Vestibular rehabilitation
+(vertigo) Paroxysmal  Positional Vertigo, Meclizine, Dimenhydrinate, Anticholinergics, Benzodiazepines, Vestibular rehabilitation, Corticosteroids
+(vertigo) Paroxysmal  Positional Vertigo, Benzodiazepines, Antihistamines, Dimenhydrinate, Vestibular rehabilitation, Anticholinergics, Corticosteroids
+(vertigo) Paroxysmal  Positional Vertigo, Anticholinergics, Meclizine, Vestibular rehabilitation, Dimenhydrinate, Benzodiazepines, Corticosteroids
+(vertigo) Paroxysmal  Positional Vertigo, Vestibular rehabilitation, Antihistamines, Dimenhydrinate, Benzodiazepines, Anticholinergics, Corticosteroids
+(vertigo) Paroxysmal  Positional Vertigo, Corticosteroids, Meclizine, Dimenhydrinate, Anticholinergics, Vestibular rehabilitation, Benzodiazepines
+(vertigo) Paroxysmal  Positional Vertigo, Dimenhydrinate, Antihistamines, Benzodiazepines, Corticosteroids, Vestibular rehabilitation, Anticholinergics
+(vertigo) Paroxysmal  Positional Vertigo, Antihistamines, Benzodiazepines, Vestibular rehabilitation, Dimenhydrinate, Corticosteroids, Anticholinergics
+(vertigo) Paroxysmal  Positional Vertigo, Benzodiazepines, Anticholinergics, Meclizine, Dimenhydrinate, Vestibular rehabilitation, Corticosteroids
+(vertigo) Paroxysmal  Positional Vertigo, Meclizine, Vestibular rehabilitation, Antihistamines, Dimenhydrinate, Benzodiazepines, Corticosteroids
+(vertigo) Paroxysmal  Positional Vertigo, Corticosteroids, Dimenhydrinate, Antihistamines, Meclizine, Vestibular rehabilitation, Anticholinergics
+(vertigo) Paroxysmal  Positional Vertigo, Vestibular rehabilitation, Anticholinergics, Meclizine, Benzodiazepines, Dimenhydrinate, Corticosteroids
+(vertigo) Paroxysmal  Positional Vertigo, Antihistamines, Dimenhydrinate, Benzodiazepines, Corticosteroids, Anticholinergics, Vestibular rehabilitation
+(vertigo) Paroxysmal  Positional Vertigo, Meclizine, Anticholinergics, Dimenhydrinate, Vestibular rehabilitation, Benzodiazepines, Corticosteroids
+(vertigo) Paroxysmal  Positional Vertigo, Anticholinergics, Benzodiazepines, Meclizine, Corticosteroids, Dimenhydrinate, Vestibular rehabilitation
+(vertigo) Paroxysmal  Positional Vertigo, Benzodiazepines, Dimenhydrinate, Corticosteroids, Vestibular rehabilitation, Antihistamines, Anticholinergics
+(vertigo) Paroxysmal  Positional Vertigo, Vestibular rehabilitation, Meclizine, Antihistamines, Corticosteroids, Dimenhydrinate, Benzodiazepines
+(vertigo) Paroxysmal  Positional Vertigo, Dimenhydrinate, Benzodiazepines, Antihistamines, Corticosteroids, Anticholinergics, Vestibular rehabilitation
+(vertigo) Paroxysmal  Positional Vertigo, Meclizine, Antihistamines, Vestibular rehabilitation, Benzodiazepines, Corticosteroids, Dimenhydrinate
+Acne, Benzoyl peroxide, Topical retinoids, Antibiotics, Oral contraceptives, Isotretinoin, Salicylic acid
+Acne, Topical retinoids, Benzoyl peroxide, Oral contraceptives, Isotretinoin, Antibiotics, Salicylic acid
+Acne, Oral contraceptives, Isotretinoin, Benzoyl peroxide, Antibiotics, Salicylic acid, Topical retinoids
+Acne, Isotretinoin, Salicylic acid, Topical retinoids, Antibiotics, Benzoyl peroxide, Oral contraceptives
+Acne, Salicylic acid, Oral contraceptives, Antibiotics, Isotretinoin, Benzoyl peroxide, Topical retinoids
+Acne, Antibiotics, Benzoyl peroxide, Salicylic acid, Topical retinoids, Oral contraceptives, Isotretinoin
+Acne, Benzoyl peroxide, Oral contraceptives, Salicylic acid, Isotretinoin, Topical retinoids, Antibiotics
+Acne, Topical retinoids, Isotretinoin, Benzoyl peroxide, Oral contraceptives, Antibiotics, Salicylic acid
+Acne, Isotretinoin, Topical retinoids, Antibiotics, Salicylic acid, Oral contraceptives, Benzoyl peroxide
+Acne, Salicylic acid, Benzoyl peroxide, Oral contraceptives, Isotretinoin, Antibiotics, Topical retinoids
+Acne, Oral contraceptives, Benzoyl peroxide, Topical retinoids, Antibiotics, Salicylic acid, Isotretinoin
+Acne, Isotretinoin, Salicylic acid, Antibiotics, Benzoyl peroxide, Topical retinoids, Oral contraceptives
+Acne, Antibiotics, Oral contraceptives, Isotretinoin, Benzoyl peroxide, Salicylic acid, Topical retinoids
+Acne, Benzoyl peroxide, Topical retinoids, Salicylic acid, Isotretinoin, Antibiotics, Oral contraceptives
+Acne, Salicylic acid, Antibiotics, Benzoyl peroxide, Oral contraceptives, Isotretinoin, Topical retinoids
+Acne, Topical retinoids, Isotretinoin, Antibiotics, Benzoyl peroxide, Salicylic acid, Oral contraceptives
+Acne, Oral contraceptives, Benzoyl peroxide, Topical retinoids, Isotretinoin, Salicylic acid, Antibiotics
+Urinary tract infection, Nitrofurantoin, Trimethoprim-sulfamethoxazole, Fosfomycin, Ciprofloxacin, Phenazopyridine, Amoxicillin
+Urinary tract infection, Trimethoprim-sulfamethoxazole, Nitrofurantoin, Ciprofloxacin, Phenazopyridine, Fosfomycin, Amoxicillin
+Urinary tract infection, Fosfomycin, Nitrofurantoin, Amoxicillin, Ciprofloxacin, Trimethoprim-sulfamethoxazole, Phenazopyridine
+Urinary tract infection, Ciprofloxacin, Phenazopyridine, Trimethoprim-sulfamethoxazole, Nitrofurantoin, Amoxicillin, Fosfomycin
+Urinary tract infection, Phenazopyridine, Amoxicillin, Nitrofurantoin, Ciprofloxacin, Trimethoprim-sulfamethoxazole, Fosfomycin
+Urinary tract infection, Amoxicillin, Nitrofurantoin, Phenazopyridine, Trimethoprim-sulfamethoxazole, Fosfomycin, Ciprofloxacin
+Urinary tract infection, Nitrofurantoin, Ciprofloxacin, Trimethoprim-sulfamethoxazole, Phenazopyridine, Amoxicillin, Fosfomycin
+Urinary tract infection, Phenazopyridine, Trimethoprim-sulfamethoxazole, Ciprofloxacin, Nitrofurantoin, Amoxicillin, Fosfomycin
+Urinary tract infection, Amoxicillin, Phenazopyridine, Nitrofurantoin, Fosfomycin, Trimethoprim-sulfamethoxazole, Ciprofloxacin
+Urinary tract infection, Ciprofloxacin, Trimethoprim-sulfamethoxazole, Nitrofurantoin, Amoxicillin, Phenazopyridine, Fosfomycin
+Urinary tract infection, Trimethoprim-sulfamethoxazole, Nitrofurantoin, Phenazopyridine, Fosfomycin, Ciprofloxacin, Amoxicillin
+Urinary tract infection, Fosfomycin, Phenazopyridine, Ciprofloxacin, Trimethoprim-sulfamethoxazole, Nitrofurantoin, Amoxicillin
+Urinary tract infection, Phenazopyridine, Nitrofurantoin, Amoxicillin, Fosfomycin, Trimethoprim-sulfamethoxazole, Ciprofloxacin
+Urinary tract infection, Nitrofurantoin, Trimethoprim-sulfamethoxazole, Phenazopyridine, Amoxicillin, Ciprofloxacin, Fosfomycin
+Urinary tract infection, Ciprofloxacin, Amoxicillin, Phenazopyridine, Nitrofurantoin, Trimethoprim-sulfamethoxazole, Fosfomycin
+Urinary tract infection, Trimethoprim-sulfamethoxazole, Amoxicillin, Nitrofurantoin, Phenazopyridine, Fosfomycin, Ciprofloxacin
+Urinary tract infection, Nitrofurantoin, Amoxicillin, Trimethoprim-sulfamethoxazole, Ciprofloxacin, Phenazopyridine, Fosfomycin
+Urinary tract infection, Ciprofloxacin, Nitrofurantoin, Amoxicillin, Phenazopyridine, Trimethoprim-sulfamethoxazole, Fosfomycin
+Urinary tract infection, Amoxicillin, Phenazopyridine, Ciprofloxacin, Nitrofurantoin, Trimethoprim-sulfamethoxazole, Fosfomycin
+Psoriasis, Topical corticosteroids, Vitamin D analogues, Retinoids, Phototherapy, Biologics, Methotrexate
+Psoriasis, Biologics, Topical corticosteroids, Phototherapy, Methotrexate, Retinoids, Vitamin D analogues
+Psoriasis, Methotrexate, Biologics, Topical corticosteroids, Vitamin D analogues, Retinoids, Phototherapy
+Psoriasis, Retinoids, Methotrexate, Biologics, Topical corticosteroids, Vitamin D analogues, Phototherapy
+Psoriasis, Phototherapy, Vitamin D analogues, Biologics, Topical corticosteroids, Methotrexate, Retinoids
+Psoriasis, Topical corticosteroids, Phototherapy, Retinoids, Vitamin D analogues, Methotrexate, Biologics
+Psoriasis, Biologics, Methotrexate, Vitamin D analogues, Retinoids, Topical corticosteroids, Phototherapy
+Psoriasis, Vitamin D analogues, Retinoids, Topical corticosteroids, Biologics, Phototherapy, Methotrexate
+Psoriasis, Methotrexate, Topical corticosteroids, Phototherapy, Vitamin D analogues, Biologics, Retinoids
+Psoriasis, Retinoids, Biologics, Methotrexate, Topical corticosteroids, Phototherapy, Vitamin D analogues
+Psoriasis, Phototherapy, Retinoids, Vitamin D analogues, Biologics, Topical corticosteroids, Methotrexate
+Psoriasis, Topical corticosteroids, Vitamin D analogues, Biologics, Methotrexate, Phototherapy, Retinoids
+Psoriasis, Biologics, Retinoids, Methotrexate, Vitamin D analogues, Topical corticosteroids, Phototherapy
+Psoriasis, Methotrexate, Vitamin D analogues, Topical corticosteroids, Retinoids, Biologics, Phototherapy
+Psoriasis, Vitamin D analogues, Methotrexate, Phototherapy, Retinoids, Topical corticosteroids, Biologics
+Psoriasis, Retinoids, Topical corticosteroids, Biologics, Methotrexate, Vitamin D analogues, Phototherapy
+Psoriasis, Phototherapy, Methotrexate, Topical corticosteroids, Retinoids, Biologics, Vitamin D analogues
+Impetigo, Mupirocin, Retapamulin, Cephalexin, Dicloxacillin, Clindamycin, Topical antiseptics
+Impetigo, Retapamulin, Mupirocin, Clindamycin, Dicloxacillin, Cephalexin, Topical antiseptics
+Impetigo, Clindamycin, Cephalexin, Mupirocin, Retapamulin, Dicloxacillin, Topical antiseptics
+Impetigo, Dicloxacillin, Topical antiseptics, Mupirocin, Clindamycin, Retapamulin, Cephalexin
+Impetigo, Cephalexin, Mupirocin, Topical antiseptics, Retapamulin, Clindamycin, Dicloxacillin
+Impetigo, Topical antiseptics, Clindamycin, Mupirocin, Retapamulin, Dicloxacillin, Cephalexin
+Impetigo, Mupirocin, Dicloxacillin, Clindamycin, Cephalexin, Topical antiseptics, Retapamulin
+Impetigo, Retapamulin, Cephalexin, Dicloxacillin, Topical antiseptics, Clindamycin, Mupirocin
+Impetigo, Clindamycin, Retapamulin, Mupirocin, Dicloxacillin, Cephalexin, Topical antiseptics
+Impetigo, Dicloxacillin, Mupirocin, Retapamulin, Clindamycin, Topical antiseptics, Cephalexin
+Impetigo, Cephalexin, Dicloxacillin, Topical antiseptics, Clindamycin, Retapamulin, Mupirocin
+Impetigo, Clindamycin, Mupirocin, Topical antiseptics, Retapamulin, Dicloxacillin, Cephalexin
+Impetigo, Topical antiseptics, Retapamulin, Clindamycin, Mupirocin, Cephalexin, Dicloxacillin
+Impetigo, Retapamulin, Clindamycin, Mupirocin, Dicloxacillin, Cephalexin, Topical antiseptics
+Impetigo, Mupirocin, Cephalexin, Retapamulin, Clindamycin, Topical antiseptics, Dicloxacillin
+Impetigo, Dicloxacillin, Cephalexin, Clindamycin, Mupirocin, Topical antiseptics, Retapamulin
+Impetigo, Cephalexin, Retapamulin, Dicloxacillin, Mupirocin, Topical antiseptics, Clindamycin
+Impetigo, Clindamycin, Dicloxacillin, Retapamulin, Topical antiseptics, Mupirocin, Cephalexin
+ADHD, Stimulants, Methylphenidate, Amphetamine, Atomoxetine, Guanfacine, Clonidine
+ADHD, Methylphenidate, Stimulants, Atomoxetine, Guanfacine, Clonidine, Dexmethylphenidate
+ADHD, Atomoxetine, Clonidine, Stimulants, Methylphenidate, Guanfacine, Dexmethylphenidate
+ADHD, Guanfacine, Atomoxetine, Clonidine, Stimulants, Amphetamine, Methylphenidate
+ADHD, Clonidine, Dexmethylphenidate, Stimulants, Methylphenidate, Atomoxetine, Guanfacine
+ADHD, Stimulants, Guanfacine, Clonidine, Methylphenidate, Atomoxetine, Amphetamine
+ADHD, Dexmethylphenidate, Methylphenidate, Atomoxetine, Stimulants, Guanfacine, Clonidine
+ADHD, Atomoxetine, Guanfacine, Stimulants, Clonidine, Methylphenidate, Dexmethylphenidate
+ADHD, Guanfacine, Methylphenidate, Atomoxetine, Clonidine, Stimulants, Dexmethylphenidate
+ADHD, Clonidine, Stimulants, Atomoxetine, Methylphenidate, Dexmethylphenidate, Guanfacine
+ADHD, Dexmethylphenidate, Guanfacine, Methylphenidate, Clonidine, Stimulants, Atomoxetine
+ADHD, Atomoxetine, Clonidine, Guanfacine, Stimulants, Dexmethylphenidate, Methylphenidate
+ADHD, Stimulants, Dexmethylphenidate, Guanfacine, Methylphenidate, Clonidine, Atomoxetine
+ADHD, Guanfacine, Stimulants, Clonidine, Atomoxetine, Methylphenidate, Dexmethylphenidate
+ADHD, Clonidine, Methylphenidate, Guanfacine, Dexmethylphenidate, Atomoxetine, Stimulants
+ADHD, Methylphenidate, Stimulants, Atomoxetine, Clonidine, Guanfacine, Dexmethylphenidate
+ADHD, Dexmethylphenidate, Stimulants, Guanfacine, Methylphenidate, Atomoxetine, Clonidine
+Alzheimer, Donepezil, Rivastigmine, Galantamine, Memantine, Antidepressants, Antipsychotics
+Alzheimer, Rivastigmine, Memantine, Donepezil, Galantamine, Antipsychotics, Antidepressants
+Alzheimer, Memantine, Donepezil, Galantamine, Rivastigmine, Antidepressants, Antipsychotics
+Alzheimer, Galantamine, Donepezil, Rivastigmine, Antidepressants, Memantine, Antipsychotics
+Alzheimer, Antidepressants, Memantine, Donepezil, Rivastigmine, Galantamine, Antipsychotics
+Alzheimer, Antipsychotics, Donepezil, Galantamine, Rivastigmine, Memantine, Antidepressants
+Alzheimer, Donepezil, Galantamine, Antipsychotics, Memantine, Rivastigmine, Antidepressants
+Alzheimer, Memantine, Antidepressants, Rivastigmine, Donepezil, Antipsychotics, Galantamine
+Alzheimer, Galantamine, Memantine, Antipsychotics, Donepezil, Rivastigmine, Antidepressants
+Alzheimer, Rivastigmine, Donepezil, Memantine, Antidepressants, Galantamine, Antipsychotics
+Alzheimer, Donepezil, Antidepressants, Galantamine, Rivastigmine, Memantine, Antipsychotics
+Alzheimer, Antipsychotics, Rivastigmine, Donepezil, Memantine, Galantamine, Antidepressants
+Alzheimer, Memantine, Donepezil, Rivastigmine, Antidepressants, Antipsychotics, Galantamine
+Alzheimer, Galantamine, Antidepressants, Donepezil, Memantine, Rivastigmine, Antipsychotics
+Alzheimer, Rivastigmine, Antipsychotics, Donepezil, Galantamine, Memantine, Antidepressants
+Alzheimer, Donepezil, Rivastigmine, Antidepressants, Galantamine, Memantine, Antipsychotics
+Alzheimer, Antidepressants, Galantamine, Donepezil, Rivastigmine, Memantine, Antipsychotics
+Alzheimer, Antipsychotics, Galantamine, Memantine, Donepezil, Rivastigmine, Antidepressants
+Anaemia, Iron supplements, Folic acid, Vitamin B12, Erythropoietin, Blood transfusion, Ferrous sulfate
+Anaemia, Folic acid, Iron supplements, Vitamin B12, Blood transfusion, Erythropoietin, Ferrous gluconate
+Anaemia, Vitamin B12, Erythropoietin, Iron supplements, Folic acid, Ferrous sulfate, Blood transfusion
+Anaemia, Erythropoietin, Iron supplements, Blood transfusion, Ferrous gluconate, Folic acid, Vitamin B12
+Anaemia, Blood transfusion, Ferrous sulfate, Folic acid, Iron supplements, Vitamin B12, Erythropoietin
+Anaemia, Iron supplements, Blood transfusion, Vitamin B12, Ferrous gluconate, Folic acid, Erythropoietin
+Anaemia, Folic acid, Blood transfusion, Erythropoietin, Iron supplements, Ferrous sulfate, Vitamin B12
+Anaemia, Erythropoietin, Folic acid, Ferrous gluconate, Blood transfusion, Iron supplements, Vitamin B12
+Anaemia, Ferrous sulfate, Blood transfusion, Folic acid, Iron supplements, Erythropoietin, Vitamin B12
+Anaemia, Blood transfusion, Erythropoietin, Folic acid, Ferrous sulfate, Iron supplements, Vitamin B12
+Anaemia, Vitamin B12, Iron supplements, Folic acid, Erythropoietin, Blood transfusion, Ferrous gluconate
+Anaemia, Iron supplements, Ferrous sulfate, Vitamin B12, Folic acid, Blood transfusion, Erythropoietin
+Anaemia, Erythropoietin, Iron supplements, Ferrous gluconate, Folic acid, Blood transfusion, Vitamin B12
+Anaemia, Folic acid, Erythropoietin, Iron supplements, Blood transfusion, Vitamin B12, Ferrous sulfate
+Anaemia, Blood transfusion, Ferrous sulfate, Erythropoietin, Vitamin B12, Folic acid, Iron supplements
+Anaemia, Ferrous gluconate, Iron supplements, Blood transfusion, Folic acid, Erythropoietin, Vitamin B12
+Anaemia, Folic acid, Blood transfusion, Erythropoietin, Iron supplements, Ferrous sulfate, Vitamin B12
+Anxiety, Selective serotonin reuptake inhibitors, Benzodiazepines, Serotonin-norepinephrine reuptake inhibitors, Buspirone, Antidepressants, Beta-blockers
+Anxiety, Benzodiazepines, Buspirone, Selective serotonin reuptake inhibitors, Antidepressants, Serotonin-norepinephrine reuptake inhibitors, Beta-blockers
+Anxiety, Serotonin-norepinephrine reuptake inhibitors, Selective serotonin reuptake inhibitors, Benzodiazepines, Antidepressants, Buspirone, Beta-blockers
+Anxiety, Buspirone, Antidepressants, Benzodiazepines, Selective serotonin reuptake inhibitors, Serotonin-norepinephrine reuptake inhibitors, Beta-blockers
+Anxiety, Antidepressants, Benzodiazepines, Buspirone, Serotonin-norepinephrine reuptake inhibitors, Selective serotonin reuptake inhibitors, Beta-blockers
+Anxiety, Beta-blockers, Selective serotonin reuptake inhibitors, Antidepressants, Buspirone, Benzodiazepines, Serotonin-norepinephrine reuptake inhibitors
+Anxiety, Selective serotonin reuptake inhibitors, Antidepressants, Buspirone, Beta-blockers, Benzodiazepines, Serotonin-norepinephrine reuptake inhibitors
+Anxiety, Antidepressants, Benzodiazepines, Beta-blockers, Buspirone, Serotonin-norepinephrine reuptake inhibitors, Selective serotonin reuptake inhibitors
+Anxiety, Benzodiazepines, Selective serotonin reuptake inhibitors, Antidepressants, Buspirone, Beta-blockers, Serotonin-norepinephrine reuptake inhibitors
+Anxiety, Buspirone, Serotonin-norepinephrine reuptake inhibitors, Selective serotonin reuptake inhibitors, Antidepressants, Benzodiazepines, Beta-blockers
+Anxiety, Serotonin-norepinephrine reuptake inhibitors, Antidepressants, Benzodiazepines, Selective serotonin reuptake inhibitors, Buspirone, Beta-blockers
+Anxiety, Beta-blockers, Buspirone, Antidepressants, Selective serotonin reuptake inhibitors, Serotonin-norepinephrine reuptake inhibitors, Benzodiazepines
+Anxiety, Antidepressants, Selective serotonin reuptake inhibitors, Benzodiazepines, Buspirone, Serotonin-norepinephrine reuptake inhibitors, Beta-blockers
+Anxiety, Benzodiazepines, Beta-blockers, Buspirone, Selective serotonin reuptake inhibitors, Antidepressants, Serotonin-norepinephrine reuptake inhibitors
+Anxiety, Buspirone, Beta-blockers, Antidepressants, Benzodiazepines, Selective serotonin reuptake inhibitors, Serotonin-norepinephrine reuptake inhibitors
+Anxiety, Selective serotonin reuptake inhibitors, Serotonin-norepinephrine reuptake inhibitors, Buspirone, Benzodiazepines, Antidepressants, Beta-blockers
+Anxiety, Antidepressants, Selective serotonin reuptake inhibitors, Buspirone, Serotonin-norepinephrine reuptake inhibitors, Benzodiazepines, Beta-blockers
+Anxiety, Beta-blockers, Serotonin-norepinephrine reuptake inhibitors, Benzodiazepines, Selective serotonin reuptake inhibitors, Antidepressants, Buspirone
+Depression, Selective serotonin reuptake inhibitors (SSRIs), Serotonin-norepinephrine reuptake inhibitors (SNRIs), Tricyclic antidepressants (TCAs), Atypical antidepressants, Mood stabilizers, Psychotherapy
+Depression, Serotonin-norepinephrine reuptake inhibitors (SNRIs), Selective serotonin reuptake inhibitors (SSRIs), Mood stabilizers, Tricyclic antidepressants (TCAs), Atypical antidepressants, Psychotherapy
+Depression, Atypical antidepressants, Mood stabilizers, Selective serotonin reuptake inhibitors (SSRIs), Tricyclic antidepressants (TCAs), Serotonin-norepinephrine reuptake inhibitors (SNRIs), Psychotherapy
+Depression, Tricyclic antidepressants (TCAs), Psychotherapy, Serotonin-norepinephrine reuptake inhibitors (SNRIs), Selective serotonin reuptake inhibitors (SSRIs), Atypical antidepressants, Mood stabilizers
+Depression, Psychotherapy, Atypical antidepressants, Selective serotonin reuptake inhibitors (SSRIs), Mood stabilizers, Tricyclic antidepressants (TCAs), Serotonin-norepinephrine reuptake inhibitors (SNRIs)
+Depression, Mood stabilizers, Tricyclic antidepressants (TCAs), Psychotherapy, Atypical antidepressants, Selective serotonin reuptake inhibitors (SSRIs), Serotonin-norepinephrine reuptake inhibitors (SNRIs)
+Depression, Selective serotonin reuptake inhibitors (SSRIs), Psychotherapy, Tricyclic antidepressants (TCAs), Mood stabilizers, Serotonin-norepinephrine reuptake inhibitors (SNRIs), Atypical antidepressants
+Depression, Tricyclic antidepressants (TCAs), Selective serotonin reuptake inhibitors (SSRIs), Atypical antidepressants, Mood stabilizers, Psychotherapy, Serotonin-norepinephrine reuptake inhibitors (SNRIs)
+Depression, Atypical antidepressants, Mood stabilizers, Serotonin-norepinephrine reuptake inhibitors (SNRIs), Psychotherapy, Selective serotonin reuptake inhibitors (SSRIs), Tricyclic antidepressants (TCAs)
+Depression, Psychotherapy, Mood stabilizers, Selective serotonin reuptake inhibitors (SSRIs), Atypical antidepressants, Tricyclic antidepressants (TCAs), Serotonin-norepinephrine reuptake inhibitors (SNRIs)
+Depression, Mood stabilizers, Selective serotonin reuptake inhibitors (SSRIs), Tricyclic antidepressants (TCAs), Atypical antidepressants, Psychotherapy, Serotonin-norepinephrine reuptake inhibitors (SNRIs)
+Depression, Serotonin-norepinephrine reuptake inhibitors (SNRIs), Psychotherapy, Selective serotonin reuptake inhibitors (SSRIs), Atypical antidepressants, Tricyclic antidepressants (TCAs), Mood stabilizers
+Depression, Atypical antidepressants, Psychotherapy, Tricyclic antidepressants (TCAs), Mood stabilizers, Selective serotonin reuptake inhibitors (SSRIs), Serotonin-norepinephrine reuptake inhibitors (SNRIs)
+Depression, Tricyclic antidepressants (TCAs), Atypical antidepressants, Selective serotonin reuptake inhibitors (SSRIs), Psychotherapy, Mood stabilizers, Serotonin-norepinephrine reuptake inhibitors (SNRIs)
+Depression, Psychotherapy, Selective serotonin reuptake inhibitors (SSRIs), Mood stabilizers, Serotonin-norepinephrine reuptake inhibitors (SNRIs), Atypical antidepressants, Tricyclic antidepressants (TCAs)
+Depression, Atypical antidepressants, Serotonin-norepinephrine reuptake inhibitors (SNRIs), Mood stabilizers, Psychotherapy, Selective serotonin reuptake inhibitors (SSRIs), Tricyclic antidepressants (TCAs)
+Diabetes, Metformin, Sulfonylureas, DPP-4 inhibitors, GLP-1 receptor agonists, SGLT2 inhibitors, Insulin
+Diabetes, Sulfonylureas, Metformin, Insulin, DPP-4 inhibitors, GLP-1 receptor agonists, SGLT2 inhibitors
+Diabetes, GLP-1 receptor agonists, Metformin, DPP-4 inhibitors, Sulfonylureas, SGLT2 inhibitors, Insulin
+Diabetes, DPP-4 inhibitors, Insulin, GLP-1 receptor agonists, Metformin, SGLT2 inhibitors, Sulfonylureas
+Diabetes, SGLT2 inhibitors, Insulin, Sulfonylureas, DPP-4 inhibitors, Metformin, GLP-1 receptor agonists
+Diabetes, Insulin, Metformin, SGLT2 inhibitors, DPP-4 inhibitors, GLP-1 receptor agonists, Sulfonylureas
+Diabetes, Metformin, SGLT2 inhibitors, Insulin, GLP-1 receptor agonists, DPP-4 inhibitors, Sulfonylureas
+Diabetes, GLP-1 receptor agonists, DPP-4 inhibitors, Sulfonylureas, Insulin, Metformin, SGLT2 inhibitors
+Diabetes, DPP-4 inhibitors, GLP-1 receptor agonists, Metformin, Sulfonylureas, Insulin, SGLT2 inhibitors
+Diabetes, Insulin, Sulfonylureas, DPP-4 inhibitors, Metformin, GLP-1 receptor agonists, SGLT2 inhibitors
+Diabetes, SGLT2 inhibitors, Metformin, Insulin, DPP-4 inhibitors, Sulfonylureas, GLP-1 receptor agonists
+Diabetes, Metformin, Insulin, Sulfonylureas, GLP-1 receptor agonists, DPP-4 inhibitors, SGLT2 inhibitors
+Diabetes, GLP-1 receptor agonists, Insulin, DPP-4 inhibitors, SGLT2 inhibitors, Sulfonylureas, Metformin
+Diabetes, Insulin, DPP-4 inhibitors, GLP-1 receptor agonists, Metformin, SGLT2 inhibitors, Sulfonylureas
+Diabetes, Sulfonylureas, Metformin, SGLT2 inhibitors, Insulin, DPP-4 inhibitors, GLP-1 receptor agonists
+Diabetes, DPP-4 inhibitors, GLP-1 receptor agonists, Insulin, Sulfonylureas, Metformin, SGLT2 inhibitors
+Diabetes, Metformin, SGLT2 inhibitors, DPP-4 inhibitors, Insulin, GLP-1 receptor agonists, Sulfonylureas
+Diabetes, GLP-1 receptor agonists, Insulin, Sulfonylureas, Metformin, SGLT2 inhibitors, DPP-4 inhibitors
+Glaucoma, Prostaglandin analogs, Beta-blockers, Alpha agonists, Carbonic anhydrase inhibitors, Rho kinase inhibitors, Oral medications
+Glaucoma, Beta-blockers, Prostaglandin analogs, Carbonic anhydrase inhibitors, Alpha agonists, Rho kinase inhibitors, Oral medications
+Glaucoma, Alpha agonists, Prostaglandin analogs, Oral medications, Carbonic anhydrase inhibitors, Beta-blockers, Rho kinase inhibitors
+Glaucoma, Carbonic anhydrase inhibitors, Beta-blockers, Rho kinase inhibitors, Prostaglandin analogs, Oral medications, Alpha agonists
+Glaucoma, Rho kinase inhibitors, Oral medications, Alpha agonists, Prostaglandin analogs, Carbonic anhydrase inhibitors, Beta-blockers
+Glaucoma, Oral medications, Prostaglandin analogs, Carbonic anhydrase inhibitors, Rho kinase inhibitors, Beta-blockers, Alpha agonists
+Glaucoma, Prostaglandin analogs, Alpha agonists, Oral medications, Carbonic anhydrase inhibitors, Rho kinase inhibitors, Beta-blockers
+Glaucoma, Beta-blockers, Rho kinase inhibitors, Prostaglandin analogs, Oral medications, Carbonic anhydrase inhibitors, Alpha agonists
+Glaucoma, Carbonic anhydrase inhibitors, Oral medications, Prostaglandin analogs, Beta-blockers, Rho kinase inhibitors, Alpha agonists
+Glaucoma, Alpha agonists, Prostaglandin analogs, Rho kinase inhibitors, Carbonic anhydrase inhibitors, Beta-blockers, Oral medications
+Glaucoma, Oral medications, Beta-blockers, Prostaglandin analogs, Rho kinase inhibitors, Alpha agonists, Carbonic anhydrase inhibitors
+Glaucoma, Carbonic anhydrase inhibitors, Prostaglandin analogs, Alpha agonists, Oral medications, Beta-blockers, Rho kinase inhibitors
+Glaucoma, Rho kinase inhibitors, Alpha agonists, Beta-blockers, Prostaglandin analogs, Oral medications, Carbonic anhydrase inhibitors
+Glaucoma, Prostaglandin analogs, Carbonic anhydrase inhibitors, Rho kinase inhibitors, Oral medications, Beta-blockers, Alpha agonists
+Glaucoma, Alpha agonists, Beta-blockers, Oral medications, Prostaglandin analogs, Carbonic anhydrase inhibitors, Rho kinase inhibitors
+Glaucoma, Oral medications, Rho kinase inhibitors, Alpha agonists, Prostaglandin analogs, Beta-blockers, Carbonic anhydrase inhibitors
+Gout, Allopurinol, Colchicine, Indomethacin, Febuxostat, Probenecid, Corticosteroids
+Gout, Colchicine, Indomethacin, Allopurinol, Febuxostat, Probenecid, Corticosteroids
+Gout, Febuxostat, Allopurinol, Probenecid, Colchicine, Indomethacin, Corticosteroids
+Gout, Indomethacin, Allopurinol, Febuxostat, Corticosteroids, Colchicine, Probenecid
+Gout, Probenecid, Corticosteroids, Allopurinol, Colchicine, Febuxostat, Indomethacin
+Gout, Corticosteroids, Febuxostat, Probenecid, Indomethacin, Allopurinol, Colchicine
+Gout, Allopurinol, Febuxostat, Indomethacin, Corticosteroids, Probenecid, Colchicine
+Gout, Colchicine, Corticosteroids, Allopurinol, Probenecid, Febuxostat, Indomethacin
+Gout, Indomethacin, Probenecid, Colchicine, Allopurinol, Corticosteroids, Febuxostat
+Gout, Febuxostat, Colchicine, Indomethacin, Allopurinol, Corticosteroids, Probenecid
+Gout, Corticosteroids, Indomethacin, Allopurinol, Febuxostat, Colchicine, Probenecid
+Gout, Probenecid, Allopurinol, Febuxostat, Indomethacin, Corticosteroids, Colchicine
+Gout, Colchicine, Febuxostat, Indomethacin, Allopurinol, Probenecid, Corticosteroids
+Gout, Allopurinol, Indomethacin, Colchicine, Probenecid, Corticosteroids, Febuxostat
+Gout, Indomethacin, Colchicine, Probenecid, Febuxostat, Allopurinol, Corticosteroids
+Gout, Corticosteroids, Allopurinol, Indomethacin, Febuxostat, Colchicine, Probenecid
+Gout, Febuxostat, Probenecid, Indomethacin, Allopurinol, Corticosteroids, Colchicine
+Gout, Colchicine, Indomethacin, Allopurinol, Corticosteroids, Febuxostat, Probenecid
+Haematopoiesis, Erythropoietin, Granulocyte-colony stimulating factor (G-CSF), Thrombopoietin, Iron supplements, Folic acid, Vitamin B12
+Haematopoiesis, Granulocyte-colony stimulating factor (G-CSF), Erythropoietin, Iron supplements, Thrombopoietin, Folic acid, Vitamin B12
+Haematopoiesis, Iron supplements, Folic acid, Erythropoietin, Granulocyte-colony stimulating factor (G-CSF), Thrombopoietin, Vitamin B12
+Haematopoiesis, Folic acid, Vitamin B12, Thrombopoietin, Erythropoietin, Iron supplements, Granulocyte-colony stimulating factor (G-CSF)
+Haematopoiesis, Vitamin B12, Thrombopoietin, Iron supplements, Granulocyte-colony stimulating factor (G-CSF), Folic acid, Erythropoietin
+Haematopoiesis, Thrombopoietin, Folic acid, Iron supplements, Granulocyte-colony stimulating factor (G-CSF), Erythropoietin, Vitamin B12
+Haematopoiesis, Erythropoietin, Folic acid, Thrombopoietin, Vitamin B12, Iron supplements, Granulocyte-colony stimulating factor (G-CSF)
+Haematopoiesis, Granulocyte-colony stimulating factor (G-CSF), Iron supplements, Erythropoietin, Folic acid, Thrombopoietin, Vitamin B12
+Haematopoiesis, Iron supplements, Vitamin B12, Erythropoietin, Folic acid, Granulocyte-colony stimulating factor (G-CSF), Thrombopoietin
+Haematopoiesis, Folic acid, Thrombopoietin, Granulocyte-colony stimulating factor (G-CSF), Erythropoietin, Iron supplements, Vitamin B12
+Haematopoiesis, Vitamin B12, Erythropoietin, Granulocyte-colony stimulating factor (G-CSF), Thrombopoietin, Folic acid, Iron supplements
+Haematopoiesis, Erythropoietin, Vitamin B12, Thrombopoietin, Folic acid, Granulocyte-colony stimulating factor (G-CSF), Iron supplements
+Haematopoiesis, Granulocyte-colony stimulating factor (G-CSF), Thrombopoietin, Iron supplements, Vitamin B12, Erythropoietin, Folic acid
+Haematopoiesis, Folic acid, Iron supplements, Granulocyte-colony stimulating factor (G-CSF), Erythropoietin, Thrombopoietin, Vitamin B12
+Haematopoiesis, Iron supplements, Granulocyte-colony stimulating factor (G-CSF), Folic acid, Erythropoietin, Vitamin B12, Thrombopoietin
+Haematopoiesis, Thrombopoietin, Erythropoietin, Granulocyte-colony stimulating factor (G-CSF), Vitamin B12, Folic acid, Iron supplements
+Haemorrhoid, Topical corticosteroids, Witch hazel, Fiber supplements, Stool softeners, Pain relievers, Sclerotherapy
+Haemorrhoid, Fiber supplements, Topical corticosteroids, Pain relievers, Sclerotherapy, Witch hazel, Stool softeners
+Haemorrhoid, Sclerotherapy, Topical corticosteroids, Pain relievers, Fiber supplements, Stool softeners, Witch hazel
+Haemorrhoid, Pain relievers, Witch hazel, Sclerotherapy, Topical corticosteroids, Fiber supplements, Stool softeners
+Haemorrhoid, Stool softeners, Pain relievers, Fiber supplements, Topical corticosteroids, Sclerotherapy, Witch hazel
+Haemorrhoid, Witch hazel, Fiber supplements, Sclerotherapy, Pain relievers, Topical corticosteroids, Stool softeners
+Haemorrhoid, Topical corticosteroids, Pain relievers, Stool softeners, Witch hazel, Sclerotherapy, Fiber supplements
+Haemorrhoid, Pain relievers, Sclerotherapy, Witch hazel, Topical corticosteroids, Fiber supplements, Stool softeners
+Haemorrhoid, Sclerotherapy, Fiber supplements, Stool softeners, Pain relievers, Topical corticosteroids, Witch hazel
+Haemorrhoid, Fiber supplements, Witch hazel, Pain relievers, Topical corticosteroids, Sclerotherapy, Stool softeners
+Haemorrhoid, Stool softeners, Topical corticosteroids, Pain relievers, Witch hazel, Sclerotherapy, Fiber supplements
+Haemorrhoid, Pain relievers, Witch hazel, Fiber supplements, Topical corticosteroids, Sclerotherapy, Stool softeners
+Haemorrhoid, Topical corticosteroids, Sclerotherapy, Fiber supplements, Pain relievers, Witch hazel, Stool softeners
+Haemorrhoid, Sclerotherapy, Pain relievers, Stool softeners, Topical corticosteroids, Witch hazel, Fiber supplements
+Haemorrhoid, Witch hazel, Topical corticosteroids, Fiber supplements, Sclerotherapy, Pain relievers, Stool softeners
+Haemorrhoid, Fiber supplements, Stool softeners, Pain relievers, Sclerotherapy, Topical corticosteroids, Witch hazel
+Haemorrhoid, Stool softeners, Sclerotherapy, Topical corticosteroids, Pain relievers, Fiber supplements, Witch hazel
+Haemorrhoid, Pain relievers, Fiber supplements, Witch hazel, Topical corticosteroids, Sclerotherapy, Stool softeners
+Hyperpigmentation, Hydroquinone, Tretinoin, Azelaic acid, Kojic acid, Corticosteroids, Vitamin C
+Hyperpigmentation, Tretinoin, Hydroquinone, Azelaic acid, Kojic acid, Vitamin C, Corticosteroids
+Hyperpigmentation, Azelaic acid, Vitamin C, Hydroquinone, Tretinoin, Kojic acid, Corticosteroids
+Hyperpigmentation, Kojic acid, Hydroquinone, Tretinoin, Corticosteroids, Azelaic acid, Vitamin C
+Hyperpigmentation, Vitamin C, Kojic acid, Corticosteroids, Azelaic acid, Hydroquinone, Tretinoin
+Hyperpigmentation, Corticosteroids, Tretinoin, Azelaic acid, Hydroquinone, Kojic acid, Vitamin C
+Hyperpigmentation, Hydroquinone, Kojic acid, Tretinoin, Vitamin C, Corticosteroids, Azelaic acid
+Hyperpigmentation, Azelaic acid, Tretinoin, Hydroquinone, Corticosteroids, Vitamin C, Kojic acid
+Hyperpigmentation, Tretinoin, Corticosteroids, Azelaic acid, Hydroquinone, Vitamin C, Kojic acid
+Hyperpigmentation, Kojic acid, Azelaic acid, Tretinoin, Hydroquinone, Vitamin C, Corticosteroids
+Hyperpigmentation, Vitamin C, Hydroquinone, Azelaic acid, Kojic acid, Tretinoin, Corticosteroids
+Hyperpigmentation, Tretinoin, Hydroquinone, Vitamin C, Kojic acid, Corticosteroids, Azelaic acid
+Hyperpigmentation, Azelaic acid, Kojic acid, Vitamin C, Hydroquinone, Tretinoin, Corticosteroids
+Hyperpigmentation, Hydroquinone, Corticosteroids, Kojic acid, Azelaic acid, Tretinoin, Vitamin C
+Hyperpigmentation, Corticosteroids, Kojic acid, Hydroquinone, Tretinoin, Azelaic acid, Vitamin C
+Hyperpigmentation, Kojic acid, Vitamin C, Tretinoin, Hydroquinone, Azelaic acid, Corticosteroids
+Osteoporosis, Bisphosphonates, Calcium supplements, Vitamin D, Hormone replacement therapy, Denosumab, Raloxifene
+Osteoporosis, Calcium supplements, Bisphosphonates, Raloxifene, Denosumab, Vitamin D, Hormone replacement therapy
+Osteoporosis, Raloxifene, Bisphosphonates, Calcium supplements, Denosumab, Hormone replacement therapy, Vitamin D
+Osteoporosis, Denosumab, Hormone replacement therapy, Raloxifene, Calcium supplements, Bisphosphonates, Vitamin D
+Osteoporosis, Vitamin D, Denosumab, Bisphosphonates, Raloxifene, Calcium supplements, Hormone replacement therapy
+Osteoporosis, Hormone replacement therapy, Raloxifene, Calcium supplements, Bisphosphonates, Vitamin D, Denosumab
+Osteoporosis, Bisphosphonates, Denosumab, Calcium supplements, Hormone replacement therapy, Raloxifene, Vitamin D
+Osteoporosis, Raloxifene, Calcium supplements, Vitamin D, Hormone replacement therapy, Bisphosphonates, Denosumab
+Osteoporosis, Denosumab, Vitamin D, Bisphosphonates, Raloxifene, Hormone replacement therapy, Calcium supplements
+Osteoporosis, Calcium supplements, Hormone replacement therapy, Denosumab, Bisphosphonates, Raloxifene, Vitamin D
+Osteoporosis, Vitamin D, Raloxifene, Bisphosphonates, Calcium supplements, Denosumab, Hormone replacement therapy
+Osteoporosis, Hormone replacement therapy, Vitamin D, Calcium supplements, Raloxifene, Denosumab, Bisphosphonates
+Osteoporosis, Denosumab, Bisphosphonates, Hormone replacement therapy, Calcium supplements, Raloxifene, Vitamin D
+Osteoporosis, Raloxifene, Hormone replacement therapy, Vitamin D, Denosumab, Calcium supplements, Bisphosphonates
+Osteoporosis, Calcium supplements, Denosumab, Raloxifene, Bisphosphonates, Hormone replacement therapy, Vitamin D
+Osteoporosis, Bisphosphonates, Hormone replacement therapy, Calcium supplements, Raloxifene, Vitamin D, Denosumab
+Osteoporosis, Raloxifene, Vitamin D, Denosumab, Bisphosphonates, Calcium supplements, Hormone replacement therapy
+Osteoporosis, Vitamin D, Bisphosphonates, Hormone replacement therapy, Raloxifene, Denosumab, Calcium supplements
+Psychosis, Antipsychotics, Atypical antipsychotics, Mood stabilizers, Antidepressants, Benzodiazepines, Electroconvulsive therapy (ECT)
+Psychosis, Atypical antipsychotics, Antipsychotics, Mood stabilizers, Benzodiazepines, Antidepressants, Electroconvulsive therapy (ECT)
+Psychosis, Mood stabilizers, Antidepressants, Atypical antipsychotics, Antipsychotics, Benzodiazepines, Electroconvulsive therapy (ECT)
+Psychosis, Antidepressants, Benzodiazepines, Antipsychotics, Mood stabilizers, Atypical antipsychotics, Electroconvulsive therapy (ECT)
+Psychosis, Benzodiazepines, Antipsychotics, Atypical antipsychotics, Mood stabilizers, Antidepressants, Electroconvulsive therapy (ECT)
+Psychosis, Electroconvulsive therapy (ECT), Antipsychotics, Atypical antipsychotics, Mood stabilizers, Antidepressants, Benzodiazepines
+Psychosis, Atypical antipsychotics, Mood stabilizers, Antidepressants, Benzodiazepines, Electroconvulsive therapy (ECT), Antipsychotics
+Psychosis, Mood stabilizers, Antipsychotics, Antidepressants, Electroconvulsive therapy (ECT), Atypical antipsychotics, Benzodiazepines
+Psychosis, Antipsychotics, Benzodiazepines, Mood stabilizers, Electroconvulsive therapy (ECT), Antidepressants, Atypical antipsychotics
+Psychosis, Antidepressants, Atypical antipsychotics, Mood stabilizers, Benzodiazepines, Electroconvulsive therapy (ECT), Antipsychotics
+Psychosis, Benzodiazepines, Electroconvulsive therapy (ECT), Antipsychotics, Atypical antipsychotics, Mood stabilizers, Antidepressants
+Psychosis, Mood stabilizers, Atypical antipsychotics, Benzodiazepines, Electroconvulsive therapy (ECT), Antidepressants, Antipsychotics
+Psychosis, Atypical antipsychotics, Electroconvulsive therapy (ECT), Mood stabilizers, Antidepressants, Benzodiazepines, Antipsychotics
+Psychosis, Antipsychotics, Mood stabilizers, Electroconvulsive therapy (ECT), Antidepressants, Atypical antipsychotics, Benzodiazepines
+Psychosis, Antidepressants, Atypical antipsychotics, Benzodiazepines, Antipsychotics, Mood stabilizers, Electroconvulsive therapy (ECT)
+Psychosis, Electroconvulsive therapy (ECT), Benzodiazepines, Atypical antipsychotics, Mood stabilizers, Antidepressants, Antipsychotics
+Parkinson, Levodopa, Carbidopa, Dopamine agonists, MAO-B inhibitors, Anticholinergics, Amantadine
+Parkinson, Carbidopa, Levodopa, MAO-B inhibitors, Dopamine agonists, Amantadine, Anticholinergics
+Parkinson, Dopamine agonists, Levodopa, Anticholinergics, Amantadine, MAO-B inhibitors, Carbidopa
+Parkinson, MAO-B inhibitors, Anticholinergics, Carbidopa, Levodopa, Amantadine, Dopamine agonists
+Parkinson, Amantadine, MAO-B inhibitors, Carbidopa, Anticholinergics, Dopamine agonists, Levodopa
+Parkinson, Anticholinergics, Levodopa, MAO-B inhibitors, Amantadine, Carbidopa, Dopamine agonists
+Parkinson, Levodopa, MAO-B inhibitors, Dopamine agonists, Anticholinergics, Carbidopa, Amantadine
+Parkinson, Carbidopa, Anticholinergics, Amantadine, MAO-B inhibitors, Levodopa, Dopamine agonists
+Parkinson, Amantadine, Levodopa, Anticholinergics, Dopamine agonists, Carbidopa, MAO-B inhibitors
+Parkinson, Dopamine agonists, Anticholinergics, Levodopa, MAO-B inhibitors, Carbidopa, Amantadine
+Parkinson, MAO-B inhibitors, Amantadine, Levodopa, Anticholinergics, Carbidopa, Dopamine agonists
+Parkinson, Anticholinergics, Carbidopa, Amantadine, Levodopa, Dopamine agonists, MAO-B inhibitors
+Parkinson, Carbidopa, Amantadine, Dopamine agonists, MAO-B inhibitors, Anticholinergics, Levodopa
+Parkinson, Dopamine agonists, Levodopa, Anticholinergics, Carbidopa, MAO-B inhibitors, Amantadine
+Parkinson, Amantadine, Anticholinergics, Carbidopa, Levodopa, MAO-B inhibitors, Dopamine agonists
+Parkinson, Levodopa, Anticholinergics, MAO-B inhibitors, Amantadine, Carbidopa, Dopamine agonists
+Parkinson, MAO-B inhibitors, Levodopa, Dopamine agonists, Amantadine, Anticholinergics, Carbidopa
+Parkinson, Anticholinergics, MAO-B inhibitors, Carbidopa, Levodopa, Dopamine agonists, Amantadine
+Scabies, Permethrin, Ivermectin, Benzyl benzoate, Sulfur ointment, Crotamiton, Lindane
+Scabies, Ivermectin, Permethrin, Sulfur ointment, Benzyl benzoate, Crotamiton, Lindane
+Scabies, Benzyl benzoate, Crotamiton, Permethrin, Lindane, Ivermectin, Sulfur ointment
+Scabies, Sulfur ointment, Lindane, Ivermectin, Permethrin, Crotamiton, Benzyl benzoate
+Scabies, Crotamiton, Permethrin, Benzyl benzoate, Sulfur ointment, Ivermectin, Lindane
+Scabies, Lindane, Crotamiton, Benzyl benzoate, Ivermectin, Sulfur ointment, Permethrin
+Scabies, Permethrin, Sulfur ointment, Lindane, Crotamiton, Ivermectin, Benzyl benzoate
+Scabies, Ivermectin, Benzyl benzoate, Permethrin, Crotamiton, Lindane, Sulfur ointment
+Scabies, Benzyl benzoate, Ivermectin, Sulfur ointment, Crotamiton, Permethrin, Lindane
+Scabies, Crotamiton, Ivermectin, Benzyl benzoate, Lindane, Permethrin, Sulfur ointment
+Scabies, Sulfur ointment, Permethrin, Crotamiton, Ivermectin, Benzyl benzoate, Lindane
+Scabies, Lindane, Permethrin, Crotamiton, Ivermectin, Sulfur ointment, Benzyl benzoate
+Scabies, Ivermectin, Crotamiton, Benzyl benzoate, Sulfur ointment, Lindane, Permethrin
+Scabies, Benzyl benzoate, Sulfur ointment, Crotamiton, Ivermectin, Permethrin, Lindane
+Scabies, Crotamiton, Benzyl benzoate, Permethrin, Sulfur ointment, Ivermectin, Lindane
+Scabies, Lindane, Sulfur ointment, Ivermectin, Crotamiton, Benzyl benzoate, Permethrin
+Pyrexia, Acetaminophen, Ibuprofen, Aspirin, Naproxen, Diclofenac, Corticosteroids
+Pyrexia, Ibuprofen, Acetaminophen, Naproxen, Corticosteroids, Aspirin, Diclofenac
+Pyrexia, Aspirin, Acetaminophen, Ibuprofen, Diclofenac, Naproxen, Corticosteroids
+Pyrexia, Naproxen, Aspirin, Corticosteroids, Acetaminophen, Ibuprofen, Diclofenac
+Pyrexia, Diclofenac, Naproxen, Ibuprofen, Corticosteroids, Aspirin, Acetaminophen
+Pyrexia, Corticosteroids, Acetaminophen, Naproxen, Ibuprofen, Diclofenac, Aspirin
+Pyrexia, Acetaminophen, Diclofenac, Corticosteroids, Naproxen, Ibuprofen, Aspirin
+Pyrexia, Naproxen, Acetaminophen, Ibuprofen, Corticosteroids, Diclofenac, Aspirin
+Pyrexia, Ibuprofen, Corticosteroids, Aspirin, Acetaminophen, Naproxen, Diclofenac
+Pyrexia, Corticosteroids, Aspirin, Ibuprofen, Diclofenac, Naproxen, Acetaminophen
+Pyrexia, Diclofenac, Acetaminophen, Corticosteroids, Ibuprofen, Aspirin, Naproxen
+Pyrexia, Naproxen, Ibuprofen, Diclofenac, Acetaminophen, Aspirin, Corticosteroids
+Pyrexia, Aspirin, Naproxen, Corticosteroids, Diclofenac, Acetaminophen, Ibuprofen
+Pyrexia, Ibuprofen, Aspirin, Acetaminophen, Corticosteroids, Naproxen, Diclofenac
+Pyrexia, Acetaminophen, Corticosteroids, Ibuprofen, Aspirin, Naproxen, Diclofenac
+Pyrexia, Corticosteroids, Naproxen, Acetaminophen, Ibuprofen, Diclofenac, Aspirin
+Pyrexia, Diclofenac, Aspirin, Corticosteroids, Naproxen, Acetaminophen, Ibuprofen
+Pyrexia, Naproxen, Diclofenac, Acetaminophen, Corticosteroids, Ibuprofen, Aspirin
+Schizophrenia, Antipsychotics, Atypical antipsychotics, Mood stabilizers, Antidepressants, Benzodiazepines, Electroconvulsive therapy (ECT)
+Schizophrenia, Atypical antipsychotics, Antipsychotics, Mood stabilizers, Antidepressants, Electroconvulsive therapy (ECT), Benzodiazepines
+Schizophrenia, Mood stabilizers, Antidepressants, Atypical antipsychotics, Antipsychotics, Benzodiazepines, Electroconvulsive therapy (ECT)
+Schizophrenia, Antidepressants, Benzodiazepines, Antipsychotics, Atypical antipsychotics, Mood stabilizers, Electroconvulsive therapy (ECT)
+Schizophrenia, Benzodiazepines, Atypical antipsychotics, Mood stabilizers, Antipsychotics, Electroconvulsive therapy (ECT), Antidepressants
+Schizophrenia, Electroconvulsive therapy (ECT), Antipsychotics, Mood stabilizers, Atypical antipsychotics, Benzodiazepines, Antidepressants
+Schizophrenia, Atypical antipsychotics, Antidepressants, Mood stabilizers, Electroconvulsive therapy (ECT), Antipsychotics, Benzodiazepines
+Schizophrenia, Mood stabilizers, Benzodiazepines, Electroconvulsive therapy (ECT), Antipsychotics, Atypical antipsychotics, Antidepressants
+Schizophrenia, Antipsychotics, Electroconvulsive therapy (ECT), Mood stabilizers, Atypical antipsychotics, Benzodiazepines, Antidepressants
+Schizophrenia, Antidepressants, Atypical antipsychotics, Benzodiazepines, Antipsychotics, Mood stabilizers, Electroconvulsive therapy (ECT)
+Schizophrenia, Benzodiazepines, Electroconvulsive therapy (ECT), Antipsychotics, Mood stabilizers, Atypical antipsychotics, Antidepressants
+Schizophrenia, Mood stabilizers, Atypical antipsychotics, Electroconvulsive therapy (ECT), Benzodiazepines, Antidepressants, Antipsychotics
+Schizophrenia, Atypical antipsychotics, Electroconvulsive therapy (ECT), Antidepressants, Benzodiazepines, Antipsychotics, Mood stabilizers
+Schizophrenia, Antipsychotics, Mood stabilizers, Antidepressants, Benzodiazepines, Electroconvulsive therapy (ECT), Atypical antipsychotics
+Schizophrenia, Antidepressants, Atypical antipsychotics, Benzodiazepines, Electroconvulsive therapy (ECT), Antipsychotics, Mood stabilizers
+Schizophrenia, Electroconvulsive therapy (ECT), Benzodiazepines, Antipsychotics, Mood stabilizers, Atypical antipsychotics, Antidepressants
+Thrombolysis, Alteplase, Tenecteplase, Reteplase, Streptokinase, Urokinase, Anticoagulants
+Thrombolysis, Tenecteplase, Alteplase, Urokinase, Reteplase, Anticoagulants, Streptokinase
+Thrombolysis, Reteplase, Alteplase, Anticoagulants, Tenecteplase, Streptokinase, Urokinase
+Thrombolysis, Streptokinase, Reteplase, Anticoagulants, Alteplase, Tenecteplase, Urokinase
+Thrombolysis, Urokinase, Tenecteplase, Alteplase, Reteplase, Anticoagulants, Streptokinase
+Thrombolysis, Anticoagulants, Streptokinase, Reteplase, Urokinase, Tenecteplase, Alteplase
+Thrombolysis, Alteplase, Reteplase, Anticoagulants, Urokinase, Streptokinase, Tenecteplase
+Thrombolysis, Tenecteplase, Anticoagulants, Alteplase, Urokinase, Reteplase, Streptokinase
+Thrombolysis, Reteplase, Tenecteplase, Anticoagulants, Streptokinase, Alteplase, Urokinase
+Thrombolysis, Urokinase, Anticoagulants, Reteplase, Tenecteplase, Alteplase, Streptokinase
+Thrombolysis, Streptokinase, Tenecteplase, Anticoagulants, Reteplase, Urokinase, Alteplase
+Thrombolysis, Anticoagulants, Alteplase, Tenecteplase, Reteplase, Urokinase, Streptokinase
+Thrombolysis, Urokinase, Alteplase, Reteplase, Anticoagulants, Tenecteplase, Streptokinase
+Thrombolysis, Reteplase, Urokinase, Anticoagulants, Streptokinase, Alteplase, Tenecteplase
+Thrombolysis, Tenecteplase, Streptokinase, Urokinase, Alteplase, Anticoagulants, Reteplase
+Thrombolysis, Anticoagulants, Reteplase, Streptokinase, Tenecteplase, Urokinase, Alteplase
+Thrombolysis, Alteplase, Urokinase, Tenecteplase, Reteplase, Anticoagulants, Streptokinase
+Constipation, Laxatives, Stool softeners, Fiber supplements, Osmotic agents, Prokinetic agents, Enemas
+Constipation, Stool softeners, Laxatives, Fiber supplements, Prokinetic agents, Enemas, Osmotic agents
+Constipation, Fiber supplements, Osmotic agents, Laxatives, Enemas, Stool softeners, Prokinetic agents
+Constipation, Osmotic agents, Prokinetic agents, Stool softeners, Laxatives, Enemas, Fiber supplements
+Constipation, Enemas, Laxatives, Fiber supplements, Osmotic agents, Prokinetic agents, Stool softeners
+Constipation, Prokinetic agents, Stool softeners, Enemas, Laxatives, Fiber supplements, Osmotic agents
+Constipation, Laxatives, Enemas, Prokinetic agents, Fiber supplements, Stool softeners, Osmotic agents
+Constipation, Fiber supplements, Laxatives, Osmotic agents, Stool softeners, Enemas, Prokinetic agents
+Constipation, Osmotic agents, Stool softeners, Laxatives, Fiber supplements, Enemas, Prokinetic agents
+Constipation, Stool softeners, Osmotic agents, Enemas, Laxatives, Prokinetic agents, Fiber supplements
+Constipation, Prokinetic agents, Fiber supplements, Laxatives, Enemas, Stool softeners, Osmotic agents
+Constipation, Enemas, Prokinetic agents, Osmotic agents, Stool softeners, Laxatives, Fiber supplements
+Constipation, Laxatives, Fiber supplements, Stool softeners, Prokinetic agents, Osmotic agents, Enemas
+Constipation, Stool softeners, Enemas, Fiber supplements, Laxatives, Osmotic agents, Prokinetic agents
+Constipation, Osmotic agents, Laxatives, Prokinetic agents, Fiber supplements, Enemas, Stool softeners
+Constipation, Prokinetic agents, Enemas, Laxatives, Fiber supplements, Stool softeners, Osmotic agents
