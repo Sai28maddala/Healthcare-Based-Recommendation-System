@@ -78,4 +78,4 @@ A healthcare services-based recommendation system leverages machine learning to 
 
 ---
 
-This project aims to revolutionize healthcare services through personalized, efficient, and accessible recommendations. For further details or collaborations, please reach out!
+This project aims to revolutionize healthcare services through personalized, efficient, and accessible recommendations. 
